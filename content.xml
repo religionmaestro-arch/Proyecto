@@ -1,0 +1,2024 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ode SYSTEM "content.dtd">
+<ode xmlns="http://www.intef.es/xsd/ode" version="2.0">
+<userPreferences>
+  <userPreference>
+    <key>theme</key>
+    <value>flux</value>
+  </userPreference>
+</userPreferences>
+<odeResources>
+  <odeResource>
+    <key>odeId</key>
+    <value>20260508224526OF708U</value>
+  </odeResource>
+  <odeResource>
+    <key>odeVersionId</key>
+    <value>202605082245260FJ6W5</value>
+  </odeResource>
+  <odeResource>
+    <key>exe_version</key>
+    <value>4.0.0</value>
+  </odeResource>
+</odeResources>
+<odeProperties>
+  <odeProperty>
+    <key>pp_title</key>
+    <value>PROYECTO. LAS AVENTURAS DE JESÚS</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_subtitle</key>
+    <value>SITUACIÓN DE APRENDIZAJE. EL BAUTISMO DE JESÚS</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_author</key>
+    <value>Joaquín Barba Ortega</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_description</key>
+    <value>Se trata de una situación de aprendizaje que nos enseña el Bautismo de Jesús, nos acerca a Jesús en el comienzo de su vida pública. Es la primera aventura de una serie de 4 aventuras donde conoceremos el tiempo cuando Jesús inicia su andadura para enseñarnos el Reino de Dios.</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_lang</key>
+    <value>es</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_license</key>
+    <value>creative commons: attribution - share alike 4.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_licenseUrl</key>
+    <value>https://creativecommons.org/licenses/by-sa/4.0/</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_theme</key>
+    <value>flux</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_exelearning_version</key>
+    <value>v4.0.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_modified</key>
+    <value>1778220535726</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addExeLink</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addPagination</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addSearchBox</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addAccessibilityToolbar</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addMathJax</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>exportSource</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_globalFont</key>
+    <value>default</value>
+  </odeProperty>
+</odeProperties>
+<odeNavStructures>
+<odeNavStructure>
+  <odePageId>page-movom2j8-ad5uyea4h</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>PORTADA</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>PORTADA</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>PORTADA</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-movom2j8-ad5uyea4h</odePageId>
+      <odeBlockId>block-1778089568997-awa8eyzlv</odeBlockId>
+      <blockName>PROYECTO</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-movom2j8-ad5uyea4h</odePageId>
+          <odeBlockId>block-1778089568997-awa8eyzlv</odeBlockId>
+          <odeIdeviceId>idevice-1778089568994-nv545rph1</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <div class="exe-text-activity"><dl><div class="inline"><dt><span title="8 SESIONES">8 SESIONES</span></dt><dd>2 MESES</dd></div><div class="inline"><dt><span title="AGRUPAMIENTOS FLEXIBLES">AGRUPAMIENTOS FLEXIBLES</span></dt><dd>TODA LA CLASE</dd></div></dl><p style="text-align: center;">LAS AVENTURAS DE</p>
+<figure class="exe-figure position-center" style="width: 1280px;"><img src="{{context_path}}/content/resources/IMAGEN LETRAS DE FANO JESUS.jpeg" title="LETRAS JESÚS" width="1280" height="400" alt="LETRAS JESÚS" />
+<figcaption class="figcaption"><span class="author">FANO</span>. <span class="license"><span class="sep">(</span><a href="http://creativecommons.org/licenses/" class="license" target="_blank" rel="noopener">CC BY-SA</a><span class="sep">)</span></span></figcaption>
+</figure><div class="iDevice_buttons feedback-button js-required"><input type="button" class="feedbacktooglebutton" value="Mostrar retroalimentación" data-text-a="Mostrar retroalimentación" data-text-b="Mostrar retroalimentación"></div><div class="feedback js-feedback js-hidden" style="display: none;"><p>¿TE APUNTAS?</p></div></div>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778089568994-nv545rph1","textInfoDurationInput":"2 MESES","textInfoDurationTextInput":"8 SESIONES","textInfoParticipantsInput":"TODA LA CLASE","textInfoParticipantsTextInput":"AGRUPAMIENTOS FLEXIBLES","textTextarea":"<div class=\"exe-text-activity\"><dl><div class=\"inline\"><dt><span title=\"8 SESIONES\">8 SESIONES</span></dt><dd>2 MESES</dd></div><div class=\"inline\"><dt><span title=\"AGRUPAMIENTOS FLEXIBLES\">AGRUPAMIENTOS FLEXIBLES</span></dt><dd>TODA LA CLASE</dd></div></dl><p style=\"text-align: center;\">LAS AVENTURAS DE</p>\n<figure class=\"exe-figure position-center\" style=\"width: 1280px;\"><img src=\"{{context_path}}/content/resources/IMAGEN LETRAS DE FANO JESUS.jpeg\" title=\"LETRAS JESÚS\" width=\"1280\" height=\"400\" alt=\"LETRAS JESÚS\" />\n<figcaption class=\"figcaption\"><span class=\"author\">FANO</span>. <span class=\"license\"><span class=\"sep\">(</span><a href=\"http://creativecommons.org/licenses/\" class=\"license\" target=\"_blank\" rel=\"noopener\">CC BY-SA</a><span class=\"sep\">)</span></span></figcaption>\n</figure><div class=\"iDevice_buttons feedback-button js-required\"><input type=\"button\" class=\"feedbacktooglebutton\" value=\"Mostrar retroalimentación\" data-text-a=\"Mostrar retroalimentación\" data-text-b=\"Mostrar retroalimentación\"></div><div class=\"feedback js-feedback js-hidden\" style=\"display: none;\"><p>¿TE APUNTAS?</p></div></div>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":"<p>¿TE APUNTAS?</p>"}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-movom2jb-i0aqh9orr</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>INFORMACIÓN Y PRESENTACIÓN</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>INFORMACIÓN Y PRESENTACIÓN</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>INFORMACIÓN Y PRESENTACIÓN</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-movom2jb-i0aqh9orr</odePageId>
+      <odeBlockId>block-1778086942507-oqqbhw81t</odeBlockId>
+      <blockName>LAS AVENTURAS DE JESÚS</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-movom2jb-i0aqh9orr</odePageId>
+          <odeBlockId>block-1778086942507-oqqbhw81t</odeBlockId>
+          <odeIdeviceId>idevice-1778086942505-h6j2kg6ge</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p></p>
+<p>El proyecto que vamos a trabajar se llama: Las Aventuras de Jesús. Se trata de un proyecto global que abarcará distintas situaciones de aprendizaje, como son: </p>
+<p>- El Bautismo de Jesús.</p>
+<p>- Jesús en el desierto.</p>
+<p>- La elección de los 12 apóstoles.</p>
+<p>- El primer milagro de Jesús.: Las bodas de Caná. </p>
+<p>LAS AVENTURAS DE JESÚS.</p>
+<p>Nuestro centro de interés será conocer la figura de Jesús y sus enseñanzas a través de vivenciar los momentos que vivió y superar distintos retos que nos permitan mejorar nuestro nivel competencial y acceder a los saberes propios de nuestro nivel.</p>
+<p><br />El nivel al que va dirigido es a 6º de primaria. Al tratarse del último nivel de primaria este proyecto y sus situaciones de aprendizaje nos permiten evaluar los saberes acumulados a través de toda la etapa y hace que el alumnado pueda poner en práctica todo lo aprendido durante estos años en la clase de religión, así como conectarla con otras competencias adquiridas en otras áreas.</p>
+<p><br />La temporalización sería mayo y junio de 2026. Contando con un total de 8 sesiones de 45 minutos.</p>
+<p><br />La materia implicada en la situación de aprendizaje sería Religión Católica.</p>
+<p><br />El idioma será español, pero en las situaciones de aprendizaje conoceremos también vocabulario en inglés que nos permita ampliar conocimientos y ayudar al alumnado en el bilingüismo.</p>
+<p><br />Identificar a Jesús de Nazaret como núcleo central del cristianismo a través de la vivenciación de los hechos narrados en la Biblia y a la superación de los retos planteados que le den acceso a competencias y saberes propios del cristianismo.</p>
+<p>Este proyecto y las situaciones de aprendizaje quedan justificadas por el interés y la mejora de las situaciones de aprendizajes trabajadas en el anterior trimestre, para que de esta forma alcancemos un aprendizaje global y adquiramos las competencias y los saberes propios de nuestro nivel.</p>
+<p>El documento con esta información lo puedes ver también en:</p>
+<p><a href="https://docs.google.com/document/d/1zi6pzxivpSIInzuY2b-07nUgkUdGYQlBIfITQai9TBU/edit?usp=sharing">https://docs.google.com/document/d/1zi6pzxivpSIInzuY2b-07nUgkUdGYQlBIfITQai9TBU/edit?usp=sharing</a></p>
+<p></p>
+<p><br /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778086942505-h6j2kg6ge","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p></p>\n<p>El proyecto que vamos a trabajar se llama: Las Aventuras de Jesús. Se trata de un proyecto global que abarcará distintas situaciones de aprendizaje, como son: </p>\n<p>- El Bautismo de Jesús.</p>\n<p>- Jesús en el desierto.</p>\n<p>- La elección de los 12 apóstoles.</p>\n<p>- El primer milagro de Jesús.: Las bodas de Caná. </p>\n<p>LAS AVENTURAS DE JESÚS.</p>\n<p>Nuestro centro de interés será conocer la figura de Jesús y sus enseñanzas a través de vivenciar los momentos que vivió y superar distintos retos que nos permitan mejorar nuestro nivel competencial y acceder a los saberes propios de nuestro nivel.</p>\n<p><br />El nivel al que va dirigido es a 6º de primaria. Al tratarse del último nivel de primaria este proyecto y sus situaciones de aprendizaje nos permiten evaluar los saberes acumulados a través de toda la etapa y hace que el alumnado pueda poner en práctica todo lo aprendido durante estos años en la clase de religión, así como conectarla con otras competencias adquiridas en otras áreas.</p>\n<p><br />La temporalización sería mayo y junio de 2026. Contando con un total de 8 sesiones de 45 minutos.</p>\n<p><br />La materia implicada en la situación de aprendizaje sería Religión Católica.</p>\n<p><br />El idioma será español, pero en las situaciones de aprendizaje conoceremos también vocabulario en inglés que nos permita ampliar conocimientos y ayudar al alumnado en el bilingüismo.</p>\n<p><br />Identificar a Jesús de Nazaret como núcleo central del cristianismo a través de la vivenciación de los hechos narrados en la Biblia y a la superación de los retos planteados que le den acceso a competencias y saberes propios del cristianismo.</p>\n<p>Este proyecto y las situaciones de aprendizaje quedan justificadas por el interés y la mejora de las situaciones de aprendizajes trabajadas en el anterior trimestre, para que de esta forma alcancemos un aprendizaje global y adquiramos las competencias y los saberes propios de nuestro nivel.</p>\n<p>El documento con esta información lo puedes ver también en:</p>\n<p><a href=\"https://docs.google.com/document/d/1zi6pzxivpSIInzuY2b-07nUgkUdGYQlBIfITQai9TBU/edit?usp=sharing\">https://docs.google.com/document/d/1zi6pzxivpSIInzuY2b-07nUgkUdGYQlBIfITQai9TBU/edit?usp=sharing</a></p>\n<p></p>\n<p><br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-movom2jc-6z8n8y5bh</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>SEGURIDAD DIGITAL</pageName>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>SEGURIDAD DIGITAL</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>SEGURIDAD DIGITAL</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>SEGURIDAD DIGITAL</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleHtml</key>
+      <value></value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>description</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-movom2jc-6z8n8y5bh</odePageId>
+      <odeBlockId>block-1778095344308-i8jwt2l6i</odeBlockId>
+      <blockName>ANTES DE COMENZAR NUESTRO TRABAJO, EMPECEMOS POR UNAS NORMAS DE SEGURIDAD DIGITAL.</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-movom2jc-6z8n8y5bh</odePageId>
+          <odeBlockId>block-1778095344308-i8jwt2l6i</odeBlockId>
+          <odeIdeviceId>idevice-1778095344306-lm61lrmfv</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><img src="{{context_path}}/content/resources/SEGURIDAD DIGITAL.jpg" title="SEGURIDAD DIGITAL" width="800" height="2000" alt="SEGURIDAD DIGITAL" /></p>
+<p>El documento con esta información lo puedes ver también en:</p>
+<p><a href="https://canva.link/gsatww322n7hq3h">https://canva.link/gsatww322n7hq3h</a></p>
+<p></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778095344306-lm61lrmfv","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><img src=\"{{context_path}}/content/resources/SEGURIDAD DIGITAL.jpg\" title=\"SEGURIDAD DIGITAL\" width=\"800\" height=\"2000\" alt=\"SEGURIDAD DIGITAL\" /></p>\n<p>El documento con esta información lo puedes ver también en:</p>\n<p><a href=\"https://canva.link/gsatww322n7hq3h\">https://canva.link/gsatww322n7hq3h</a></p>\n<p></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-movom2jd-5t2lp7tua</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>SA. EL BAUTISMO DE JESÚS</pageName>
+  <odeNavStructureOrder>3</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>SA. EL BAUTISMO DE JESÚS</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>SA. EL BAUTISMO DE JESÚS</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>SA. EL BAUTISMO DE JESÚS</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-movom2jd-5t2lp7tua</odePageId>
+      <odeBlockId>block-1778095593420-cv06l800p</odeBlockId>
+      <blockName>SA EL BAUTISMO DE JESÚS</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-movom2jd-5t2lp7tua</odePageId>
+          <odeBlockId>block-1778095593420-cv06l800p</odeBlockId>
+          <odeIdeviceId>idevice-1778095593418-2u6js4f5v</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <figure class="exe-figure position-center" style="width: 297px;"><img src="{{context_path}}/content/resources/bautismo-de-jesus-fano-2jpg-2_1024-297x300 (1).jpg" title="ELBAUTISMO DE JESÚS" width="297" height="300" alt="EL BAUTISMO DE JESÚS" />
+<figcaption class="figcaption"><span class="author">FANO</span>. <span class="license"><span class="sep">(</span><a href="http://creativecommons.org/licenses/" class="license" target="_blank" rel="noopener">CC BY-SA</a><span class="sep">)</span></span></figcaption>
+</figure>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778095593418-2u6js4f5v","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<figure class=\"exe-figure position-center\" style=\"width: 297px;\"><img src=\"{{context_path}}/content/resources/bautismo-de-jesus-fano-2jpg-2_1024-297x300 (1).jpg\" title=\"ELBAUTISMO DE JESÚS\" width=\"297\" height=\"300\" alt=\"EL BAUTISMO DE JESÚS\" />\n<figcaption class=\"figcaption\"><span class=\"author\">FANO</span>. <span class=\"license\"><span class=\"sep\">(</span><a href=\"http://creativecommons.org/licenses/\" class=\"license\" target=\"_blank\" rel=\"noopener\">CC BY-SA</a><span class=\"sep\">)</span></span></figcaption>\n</figure>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-movom2je-y8zqmwq0o</odePageId>
+  <odeParentPageId>page-movom2jd-5t2lp7tua</odeParentPageId>
+  <pageName>CONOCIMIENTOS PREVIOS</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>CONOCIMIENTOS PREVIOS</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>CONOCIMIENTOS PREVIOS</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>CONOCIMIENTOS PREVIOS</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-movom2je-y8zqmwq0o</odePageId>
+      <odeBlockId>block-1778110370940-auqax2a1o</odeBlockId>
+      <blockName>Cuestionario Blooket Bautismo</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-movom2je-y8zqmwq0o</odePageId>
+          <odeBlockId>block-1778110370940-auqax2a1o</odeBlockId>
+          <odeIdeviceId>idevice-1778110370937-587nfjccw</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <div class="exe-text-activity"><dl><div class="inline"><dt><span title=""></span></dt><dd>10 minutos</dd></div><div class="inline"><dt><span title="Tarea individual">Tarea individual</span></dt><dd>Toda la clase</dd></div></dl><p>Vamos a iniciar nuestra aventura realizando un cuestionario para saber que conocimientos tenéis sobre este momento tan importante en la vida de Jesús que lo lleva al Anuncio del Reino de Dios.</p>
+<p>Os dejo este Blooket para que lo realicéis de manera individual:</p>
+<p><a href="https://solo.blooket.com/study?id=69fbc8c01c2725e68a210ccb" title="">https://solo.blooket.com/study?id=69fbc8c01c2725e68a210ccb</a></p>
+<p></p></div>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778110370937-587nfjccw","textInfoDurationInput":"10 minutos","textInfoDurationTextInput":"","textInfoParticipantsInput":"Toda la clase","textInfoParticipantsTextInput":"Tarea individual","textTextarea":"<div class=\"exe-text-activity\"><dl><div class=\"inline\"><dt><span title=\"\"></span></dt><dd>10 minutos</dd></div><div class=\"inline\"><dt><span title=\"Tarea individual\">Tarea individual</span></dt><dd>Toda la clase</dd></div></dl><p>Vamos a iniciar nuestra aventura realizando un cuestionario para saber que conocimientos tenéis sobre este momento tan importante en la vida de Jesús que lo lleva al Anuncio del Reino de Dios.</p>\n<p>Os dejo este Blooket para que lo realicéis de manera individual:</p>\n<p><a href=\"https://solo.blooket.com/study?id=69fbc8c01c2725e68a210ccb\" title=\"\">https://solo.blooket.com/study?id=69fbc8c01c2725e68a210ccb</a></p>\n<p></p></div>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-movom2jd-boicfx48i</odePageId>
+  <odeParentPageId>page-movom2jd-5t2lp7tua</odeParentPageId>
+  <pageName>INICIAMOS LA  AVENTURA</pageName>
+  <odeNavStructureOrder>7</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>INICIAMOS LA  AVENTURA</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>INICIAMOS LA  AVENTURA</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-movom2jd-boicfx48i</odePageId>
+      <odeBlockId>block-1778096197233-skwvkq1m7</odeBlockId>
+      <blockName>INTRODUCCIÓN A LA AVENTURA</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-movom2jd-boicfx48i</odePageId>
+          <odeBlockId>block-1778096197233-skwvkq1m7</odeBlockId>
+          <odeIdeviceId>idevice-1778096197231-mg2i24728</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Vamos a comenzar las aventuras de Jesús. Tras nuestro paso por la puerta del aula, nos hemos adentrado en la actual Palestina en tiempos de Jesús. Nuestra aula se ha convertido en el territorio de Galilea y, concretamente nos encontramos en Nazaret, una tierra que vio crecer a nuestro principal protagonista, Jesús. Visualiza estos vídeos para sentir como era la vida y los territorios donde vivió Jesús.</p>
+<figure class="exe-figure exe-media position-center license-standard-youtube" style="width: 560px;" id="fig_pphxudxst"><iframe width="560" height="314" src="https://www.youtube.com/embed/1VzxvylYUUA" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe>
+<figcaption class="figcaption"><span class="author">Youtube. Univision</span> <span class="license"><span class="sep">(</span><a href="https://www.youtube.com/static?template=terms" rel="license nofollow noopener" target="_blank">Licencia de YouTube estándar</a><span class="sep">). ¿Cómo se vivía en Nazaret en los tiempos de Jesús?</span></span></figcaption>
+</figure>
+<p></p>
+<p>Si quieres profundizar sobre la vida  en Nazaret, no dejes de ver este vídeo en casa.</p>
+<figure class="exe-figure exe-media position-center license-standard-youtube" style="width: 560px;" id="fig_w277mfjga"><iframe width="560" height="314" src="https://www.youtube.com/embed/QSJWuBeg4Ms?t=535s" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe>
+<figcaption class="figcaption"><a href="https://www.youtube.com/watch?v=QSJWuBeg4Ms&amp;t=535s" target="_blank" class="author" rel="noopener">Youtube. Relatos eternos y encuentros eternos.</a>. A<span class="title"><em>sí Era la Vida en Nazaret en tiempos de Jesús | Año 1 d.C. | La ciudad del Mesías | Con IA</em></span> <span class="license"><span class="sep">(</span><a href="https://www.youtube.com/static?template=terms" rel="license nofollow noopener" target="_blank">Licencia de YouTube estándar</a><span class="sep">)</span></span></figcaption>
+</figure>
+<p></p>
+<p><br /></p>
+<p>Ya que nos hemos puesto en situación, comencemos nuestra aventura. Pasamos a convertirnos en un personaje de la época. En un cubo de plástico habrá pelotas de padel con el nombre de diferentes personajes de la época de Jesús. Cada uno de los alumnos cogerá una pelota y se convertirá en el personaje que le toque. ¿ quién te tocará?</p>
+<p>Durante el reto Juan Bautista nos guiará por el colegio hasta encontrar el río Jordán. En este primer reto debes cumplir las normas:</p>
+<p>- Ir agarrado de una cuerda con todos los compañeros  en el camino hasta el río Jordán</p>
+<p>Sostener la pelota con tu personaje sin que caiga al suelo en ningún momento. </p>
+<p>Los personajes de Jesús, Juan Bautista y María llevarán la imagen y su nombre pegados en la camiseta.</p>
+<p>Antes de salir en busca de nuestro Río Jordán, vamos a ver que es lo que ocurrió allí a través de este vídeo:</p>
+<figure class="exe-figure exe-media position-center license-standard-youtube" style="width: 560px;" id="fig_1kcozza8i"><iframe width="560" height="314" src="https://www.youtube.com/embed/xTaScPYfZjk?t=22s" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe>
+<figcaption class="figcaption"><span class="author">Youtube. Iglesia de Jesucristo. </span>. <span class="title"><em>El bautismo de Jesús.</em></span> <span class="license"><span class="sep">(</span><a href="https://www.youtube.com/static?template=terms" rel="license nofollow noopener" target="_blank">Licencia de YouTube estándar</a><span class="sep">)</span></span></figcaption>
+</figure>
+<p></p>
+<p><br /></p>
+<p>Comienza nuestro camino...</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778096197231-mg2i24728","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Vamos a comenzar las aventuras de Jesús. Tras nuestro paso por la puerta del aula, nos hemos adentrado en la actual Palestina en tiempos de Jesús. Nuestra aula se ha convertido en el territorio de Galilea y, concretamente nos encontramos en Nazaret, una tierra que vio crecer a nuestro principal protagonista, Jesús. Visualiza estos vídeos para sentir como era la vida y los territorios donde vivió Jesús.</p>\n<figure class=\"exe-figure exe-media position-center license-standard-youtube\" style=\"width: 560px;\" id=\"fig_pphxudxst\"><iframe width=\"560\" height=\"314\" src=\"https://www.youtube.com/embed/1VzxvylYUUA\" allowfullscreen=\"allowfullscreen\" data-mce-fragment=\"1\"></iframe>\n<figcaption class=\"figcaption\"><span class=\"author\">Youtube. Univision</span> <span class=\"license\"><span class=\"sep\">(</span><a href=\"https://www.youtube.com/static?template=terms\" rel=\"license nofollow noopener\" target=\"_blank\">Licencia de YouTube estándar</a><span class=\"sep\">). ¿Cómo se vivía en Nazaret en los tiempos de Jesús?</span></span></figcaption>\n</figure>\n<p></p>\n<p>Si quieres profundizar sobre la vida  en Nazaret, no dejes de ver este vídeo en casa.</p>\n<figure class=\"exe-figure exe-media position-center license-standard-youtube\" style=\"width: 560px;\" id=\"fig_w277mfjga\"><iframe width=\"560\" height=\"314\" src=\"https://www.youtube.com/embed/QSJWuBeg4Ms?t=535s\" allowfullscreen=\"allowfullscreen\" data-mce-fragment=\"1\"></iframe>\n<figcaption class=\"figcaption\"><a href=\"https://www.youtube.com/watch?v=QSJWuBeg4Ms&amp;t=535s\" target=\"_blank\" class=\"author\" rel=\"noopener\">Youtube. Relatos eternos y encuentros eternos.</a>. A<span class=\"title\"><em>sí Era la Vida en Nazaret en tiempos de Jesús | Año 1 d.C. | La ciudad del Mesías | Con IA</em></span> <span class=\"license\"><span class=\"sep\">(</span><a href=\"https://www.youtube.com/static?template=terms\" rel=\"license nofollow noopener\" target=\"_blank\">Licencia de YouTube estándar</a><span class=\"sep\">)</span></span></figcaption>\n</figure>\n<p></p>\n<p><br /></p>\n<p>Ya que nos hemos puesto en situación, comencemos nuestra aventura. Pasamos a convertirnos en un personaje de la época. En un cubo de plástico habrá pelotas de padel con el nombre de diferentes personajes de la época de Jesús. Cada uno de los alumnos cogerá una pelota y se convertirá en el personaje que le toque. ¿ quién te tocará?</p>\n<p>Durante el reto Juan Bautista nos guiará por el colegio hasta encontrar el río Jordán. En este primer reto debes cumplir las normas:</p>\n<p>- Ir agarrado de una cuerda con todos los compañeros  en el camino hasta el río Jordán</p>\n<p>Sostener la pelota con tu personaje sin que caiga al suelo en ningún momento. </p>\n<p>Los personajes de Jesús, Juan Bautista y María llevarán la imagen y su nombre pegados en la camiseta.</p>\n<p>Antes de salir en busca de nuestro Río Jordán, vamos a ver que es lo que ocurrió allí a través de este vídeo:</p>\n<figure class=\"exe-figure exe-media position-center license-standard-youtube\" style=\"width: 560px;\" id=\"fig_1kcozza8i\"><iframe width=\"560\" height=\"314\" src=\"https://www.youtube.com/embed/xTaScPYfZjk?t=22s\" allowfullscreen=\"allowfullscreen\" data-mce-fragment=\"1\"></iframe>\n<figcaption class=\"figcaption\"><span class=\"author\">Youtube. Iglesia de Jesucristo. </span>. <span class=\"title\"><em>El bautismo de Jesús.</em></span> <span class=\"license\"><span class=\"sep\">(</span><a href=\"https://www.youtube.com/static?template=terms\" rel=\"license nofollow noopener\" target=\"_blank\">Licencia de YouTube estándar</a><span class=\"sep\">)</span></span></figcaption>\n</figure>\n<p></p>\n<p><br /></p>\n<p>Comienza nuestro camino...</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-movom2jf-1670zfecs</odePageId>
+  <odeParentPageId>page-movom2jd-5t2lp7tua</odeParentPageId>
+  <pageName>CONTENIDO</pageName>
+  <odeNavStructureOrder>9</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>CONTENIDO</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>CONTENIDO</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-movom2jf-1670zfecs</odePageId>
+      <odeBlockId>block-1778108952563-cjrsftcyh</odeBlockId>
+      <blockName>Representación: El Bautismo de Jesús</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-movom2jf-1670zfecs</odePageId>
+          <odeBlockId>block-1778108952563-cjrsftcyh</odeBlockId>
+          <odeIdeviceId>idevice-1778108952561-l2zkiz1ap</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <div class="exe-text-activity"><dl><div class="inline"><dt><span title="Zona: Césped del patio">Zona: Césped del patio</span></dt><dd>30 minutos</dd></div><div class="inline"><dt><span title="Agrupamiento flexible">Agrupamiento flexible</span></dt><dd>2 en la representación y todos en la explicación.</dd></div></dl><p>Si estas leyendo esto es que ya hemos encontrado el río Jordán y eres uno de los principales personajes de nuestra primera aventura: Juan Bautista y Jesús. Ahora nos toca representar el Bautismo de Jesús.</p>
+<p>Utiliza la tablet para aprenderte los textos junto con tu compañero e interpreta lo mejor que puedas este momento tan importante. Os dejo el texto bíblico para la representación.</p>
+<figure class="exe-figure position-center" style="width: 960px;"><img src="{{context_path}}/content/resources/biblia2.jpg" title="Biblia" width="960" height="300" alt="Biblia" />
+<figcaption class="figcaption"><span class="author">Conferencia Episcopal</span>. <span class="license"><span class="sep">(</span><a href="http://creativecommons.org/licenses/" class="license" target="_blank" rel="noopener">CC BY-SA</a><span class="sep">)</span></span></figcaption>
+</figure>
+<p>Se bautizó Jesús y vio que el Espíritu de Dios se posaba él (Mt 3, 13-17)</p>
+<p>Por entonces viene Jesús desde Galilea al Jordán y se presenta a Juan para que lo bautice. Pero Juan intentaba disuadirlo diciéndole: «Soy yo el que necesito que tú me bautices, ¿y tú acudes a mí?». Jesús le contestó: «Déjalo ahora. Conviene que así cumplamos toda justicia». Entonces Juan se lo permitió. Apenas se bautizó Jesús, salió del agua; se abrieron los cielos y vio que el Espíritu de Dios bajaba como una paloma y se posaba sobre él. Y vino una voz de los cielos que decía: «Este es mi Hijo amado, en quien me complazco».</p></div>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778108952561-l2zkiz1ap","textInfoDurationInput":"30 minutos","textInfoDurationTextInput":"Zona: Césped del patio","textInfoParticipantsInput":"2 en la representación y todos en la explicación.","textInfoParticipantsTextInput":"Agrupamiento flexible","textTextarea":"<div class=\"exe-text-activity\"><dl><div class=\"inline\"><dt><span title=\"Zona: Césped del patio\">Zona: Césped del patio</span></dt><dd>30 minutos</dd></div><div class=\"inline\"><dt><span title=\"Agrupamiento flexible\">Agrupamiento flexible</span></dt><dd>2 en la representación y todos en la explicación.</dd></div></dl><p>Si estas leyendo esto es que ya hemos encontrado el río Jordán y eres uno de los principales personajes de nuestra primera aventura: Juan Bautista y Jesús. Ahora nos toca representar el Bautismo de Jesús.</p>\n<p>Utiliza la tablet para aprenderte los textos junto con tu compañero e interpreta lo mejor que puedas este momento tan importante. Os dejo el texto bíblico para la representación.</p>\n<figure class=\"exe-figure position-center\" style=\"width: 960px;\"><img src=\"{{context_path}}/content/resources/biblia2.jpg\" title=\"Biblia\" width=\"960\" height=\"300\" alt=\"Biblia\" />\n<figcaption class=\"figcaption\"><span class=\"author\">Conferencia Episcopal</span>. <span class=\"license\"><span class=\"sep\">(</span><a href=\"http://creativecommons.org/licenses/\" class=\"license\" target=\"_blank\" rel=\"noopener\">CC BY-SA</a><span class=\"sep\">)</span></span></figcaption>\n</figure>\n<p>Se bautizó Jesús y vio que el Espíritu de Dios se posaba él (Mt 3, 13-17)</p>\n<p>Por entonces viene Jesús desde Galilea al Jordán y se presenta a Juan para que lo bautice. Pero Juan intentaba disuadirlo diciéndole: «Soy yo el que necesito que tú me bautices, ¿y tú acudes a mí?». Jesús le contestó: «Déjalo ahora. Conviene que así cumplamos toda justicia». Entonces Juan se lo permitió. Apenas se bautizó Jesús, salió del agua; se abrieron los cielos y vio que el Espíritu de Dios bajaba como una paloma y se posaba sobre él. Y vino una voz de los cielos que decía: «Este es mi Hijo amado, en quien me complazco».</p></div>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1778171015179-nckzzcwyk</odePageId>
+  <odeParentPageId>page-movom2jd-5t2lp7tua</odeParentPageId>
+  <pageName>RETO</pageName>
+  <odeNavStructureOrder>11</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>RETO</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1778171015179-nckzzcwyk</odePageId>
+      <odeBlockId>block-1778171024503-l1jxrb6sp</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778171015179-nckzzcwyk</odePageId>
+          <odeBlockId>block-1778171024503-l1jxrb6sp</odeBlockId>
+          <odeIdeviceId>idevice-1778171024502-r5s0u8ypx</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <div class="exe-text-activity"><dl><div class="inline"><dt><span title="Zona: Césped del patio">Zona: Césped del patio</span></dt><dd>10 minutos</dd></div><div class="inline"><dt><span title="Agrupamiento flexible">Agrupamiento flexible</span></dt><dd>Toda la clase</dd></div></dl><p>Una vez que ya hemos realizado nuestra representación y hemos explicado los momentos del Bautismo de Jesús y cómo realizamos actualmente el sacramento del Bautismo, pasaremos a nuestro segundo reto de la situación de aprendizaje. Se trata de un reto de trabajo colaborativo. Sonará la siguiente canción sobre el Bautismo de Jesús:</p>
+<figure class="exe-figure exe-media position-center license-standard-youtube" style="width: 560px;" id="fig_s7cgw7viq"><iframe width="560" height="314" src="https://www.youtube.com/embed/ZeshuR0tZnU?list=RDZeshuR0tZnU&amp;start_radio=1" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe>
+<figcaption class="figcaption"><span class="author">Youtube. Jesús Eucaristia Kids</span>. <span class="title"><em>El Bautismo de Jesús | Una canción para celebrar la fe y el amor del Padre.</em></span> <span class="license"><span class="sep">(</span><a href="https://www.youtube.com/static?template=terms" rel="license nofollow noopener" target="_blank">Licencia de YouTube estándar</a><span class="sep">)</span></span></figcaption>
+</figure>
+<p>Cuando la música se pare, Jesús deberá estar en en el centro del río Jordán y el resto de compañeros debe estar a su alrededor dentro del río. El reto se va dificultando porque el río se divide por la mitad y cada vez se hace más pequeño, de tal manera que tendréis que poneros de acuerdo para ayudaros y que todos entréis en el río.</p></div>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778171024502-r5s0u8ypx","textInfoDurationInput":"10 minutos","textInfoDurationTextInput":"Zona: Césped del patio","textInfoParticipantsInput":"Toda la clase","textInfoParticipantsTextInput":"Agrupamiento flexible","textTextarea":"<div class=\"exe-text-activity\"><dl><div class=\"inline\"><dt><span title=\"Zona: Césped del patio\">Zona: Césped del patio</span></dt><dd>10 minutos</dd></div><div class=\"inline\"><dt><span title=\"Agrupamiento flexible\">Agrupamiento flexible</span></dt><dd>Toda la clase</dd></div></dl><p>Una vez que ya hemos realizado nuestra representación y hemos explicado los momentos del Bautismo de Jesús y cómo realizamos actualmente el sacramento del Bautismo, pasaremos a nuestro segundo reto de la situación de aprendizaje. Se trata de un reto de trabajo colaborativo. Sonará la siguiente canción sobre el Bautismo de Jesús:</p>\n<figure class=\"exe-figure exe-media position-center license-standard-youtube\" style=\"width: 560px;\" id=\"fig_s7cgw7viq\"><iframe width=\"560\" height=\"314\" src=\"https://www.youtube.com/embed/ZeshuR0tZnU?list=RDZeshuR0tZnU&amp;start_radio=1\" allowfullscreen=\"allowfullscreen\" data-mce-fragment=\"1\"></iframe>\n<figcaption class=\"figcaption\"><span class=\"author\">Youtube. Jesús Eucaristia Kids</span>. <span class=\"title\"><em>El Bautismo de Jesús | Una canción para celebrar la fe y el amor del Padre.</em></span> <span class=\"license\"><span class=\"sep\">(</span><a href=\"https://www.youtube.com/static?template=terms\" rel=\"license nofollow noopener\" target=\"_blank\">Licencia de YouTube estándar</a><span class=\"sep\">)</span></span></figcaption>\n</figure>\n<p>Cuando la música se pare, Jesús deberá estar en en el centro del río Jordán y el resto de compañeros debe estar a su alrededor dentro del río. El reto se va dificultando porque el río se divide por la mitad y cada vez se hace más pequeño, de tal manera que tendréis que poneros de acuerdo para ayudaros y que todos entréis en el río.</p></div>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1778171888018-9uiwjz5oo</odePageId>
+  <odeParentPageId>page-movom2jd-5t2lp7tua</odeParentPageId>
+  <pageName>LLUVÍA DE IDEAS</pageName>
+  <odeNavStructureOrder>12</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>LLUVÍA DE IDEAS</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1778171888018-9uiwjz5oo</odePageId>
+      <odeBlockId>block-1778172162407-8504lar7c</odeBlockId>
+      <blockName>LLUVIA DE IDEAS</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778171888018-9uiwjz5oo</odePageId>
+          <odeBlockId>block-1778172162407-8504lar7c</odeBlockId>
+          <odeIdeviceId>idevice-1778172162404-qs7sm6s22</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <div class="exe-text-activity"><dl><div class="inline"><dt><span title="TRABAJO CON ORDENADOR">TRABAJO CON ORDENADOR</span></dt><dd>20 MINUTOS</dd></div><div class="inline"><dt><span title="AGRUPAMIENTOS FLEXIBLES">AGRUPAMIENTOS FLEXIBLES</span></dt><dd>TODA LA CLASE</dd></div></dl><p>Comenzamos la 2ª sesión de nuestra situación de aprendizaje: El Bautismo de Jesús. Para ello, tras un breve paso por la puerta de la clase que nos sirve para volver a ambientarnos en el tiempo de Jesús. Nos colocamos en las mesas de manera flexible en distintos grupos y realizaremos una lluvia de ideas sobre los conocimientos, valores y competencias, reflexiones y valoraciones  que aprendimos en la sesión anterior. Para realizar esta actividad, cada alumno tendrá su ordenador, podréis hablar en grupo, pero de manera individual deberéis ir  haciendo aportaciones a cada uno de los tres elementos que aparecerán en su pantalla:</p>
+<p>Conocimientos, valores y competencias aprendidos en la Situación de aprendizaje.</p>
+<p>Para realizar esta actividad utilizaremos la aplicación smart mirror de la pantalla digital de nuestra aula. </p>
+<p>Conéctate a esta dirección y comienza tu trabajo:</p>
+<p><a href="https://www.smartmirror.link/" title="Lluvia de ideas">https://www.smartmirror.link/</a></p>
+<p>Si no pudieras entrar desde este link, siempre puedes ir a la página que tenemos todas las webs de referencia que usamos en nuestro proyecto y clicar en esta imagen</p>
+<figure class="exe-figure position-center" style="width: 225px;"><img src="{{context_path}}/content/resources/imagen smart mirror.png" title="WEB SMART MIRROR " width="225" height="225" alt="" />
+<figcaption class="figcaption"><span class="author">web smart mirror</span>. <span class="license"><span class="sep">(</span><a href="http://creativecommons.org/licenses/" class="license" target="_blank" rel="noopener">CC BY</a><span class="sep">)</span></span></figcaption>
+</figure>
+<p><br /></p></div>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778172162404-qs7sm6s22","textInfoDurationInput":"20 MINUTOS","textInfoDurationTextInput":"TRABAJO CON ORDENADOR","textInfoParticipantsInput":"TODA LA CLASE","textInfoParticipantsTextInput":"AGRUPAMIENTOS FLEXIBLES","textTextarea":"<div class=\"exe-text-activity\"><dl><div class=\"inline\"><dt><span title=\"TRABAJO CON ORDENADOR\">TRABAJO CON ORDENADOR</span></dt><dd>20 MINUTOS</dd></div><div class=\"inline\"><dt><span title=\"AGRUPAMIENTOS FLEXIBLES\">AGRUPAMIENTOS FLEXIBLES</span></dt><dd>TODA LA CLASE</dd></div></dl><p>Comenzamos la 2ª sesión de nuestra situación de aprendizaje: El Bautismo de Jesús. Para ello, tras un breve paso por la puerta de la clase que nos sirve para volver a ambientarnos en el tiempo de Jesús. Nos colocamos en las mesas de manera flexible en distintos grupos y realizaremos una lluvia de ideas sobre los conocimientos, valores y competencias, reflexiones y valoraciones  que aprendimos en la sesión anterior. Para realizar esta actividad, cada alumno tendrá su ordenador, podréis hablar en grupo, pero de manera individual deberéis ir  haciendo aportaciones a cada uno de los tres elementos que aparecerán en su pantalla:</p>\n<p>Conocimientos, valores y competencias aprendidos en la Situación de aprendizaje.</p>\n<p>Para realizar esta actividad utilizaremos la aplicación smart mirror de la pantalla digital de nuestra aula. </p>\n<p>Conéctate a esta dirección y comienza tu trabajo:</p>\n<p><a href=\"https://www.smartmirror.link/\" title=\"Lluvia de ideas\">https://www.smartmirror.link/</a></p>\n<p>Si no pudieras entrar desde este link, siempre puedes ir a la página que tenemos todas las webs de referencia que usamos en nuestro proyecto y clicar en esta imagen</p>\n<figure class=\"exe-figure position-center\" style=\"width: 225px;\"><img src=\"{{context_path}}/content/resources/imagen smart mirror.png\" title=\"WEB SMART MIRROR \" width=\"225\" height=\"225\" alt=\"\" />\n<figcaption class=\"figcaption\"><span class=\"author\">web smart mirror</span>. <span class=\"license\"><span class=\"sep\">(</span><a href=\"http://creativecommons.org/licenses/\" class=\"license\" target=\"_blank\" rel=\"noopener\">CC BY</a><span class=\"sep\">)</span></span></figcaption>\n</figure>\n<p><br /></p></div>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1778175378680-1hm83d0oh</odePageId>
+  <odeParentPageId>page-movom2jd-5t2lp7tua</odeParentPageId>
+  <pageName>EVALUACIÓN.</pageName>
+  <odeNavStructureOrder>13</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>EVALUACIÓN.</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>EVALUACIÓN.</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1778175378680-1hm83d0oh</odePageId>
+      <odeBlockId>block-1778175419284-ru8mcterh</odeBlockId>
+      <blockName>Formulario El Bautismo de Jesús</blockName>
+      <iconName>book</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778175378680-1hm83d0oh</odePageId>
+          <odeBlockId>block-1778175419284-ru8mcterh</odeBlockId>
+          <odeIdeviceId>idevice-1778175419282-co5ueozvy</odeIdeviceId>
+          <odeIdeviceTypeName>form</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-form-container">
+  <div class="game-evaluation-ids js-hidden" data-id="idevice-1778175419282-co5ueozvy" data-evaluationb="false" data-evaluationid="769ef769-0c07-4e03-b3b4-ca2da8b12c66"></div>
+            <div id="frmMainContainer-idevice-1778175419282-co5ueozvy" class="form-IDevice" data-id="idevice-1778175419282-co5ueozvy">
+                <div class="form-Data js-hidden">{}</div>
+                <div class="form-instructions"><p>Responde a las preguntas del cuestionario</p></div>
+                <div class="FRMP-GameScoreBoard" style="display:none;">
+                    <div>
+                        <strong><span class="sr-av">Tiempo por pregunta:</span></strong>
+                        <span id="frmPTime-idevice-1778175419282-co5ueozvy">00:00</span>
+                    </div>
+                </div>
+                <div class="FRMP-StartGame" id="frmStartGameDiv-idevice-1778175419282-co5ueozvy" style="display:none;">
+                      <button  id="frmStartGame-idevice-1778175419282-co5ueozvy" type="button" class="btn btn-primary">Pulsa aquí para empezar</button>
+                </div>
+                <div class="form-body" id="frmBody-idevice-1778175419282-co5ueozvy" style="display:block;">
+                    <div class="FRMP-Questions">
+                        <div id="form-questions-idevice-1778175419282-co5ueozvy" > </div>
+                        <div id="frmCover-idevice-1778175419282-co5ueozvy" class="FRMP-Cover"> </div>
+                    </div>
+                    <div id="resultsContainer-idevice-1778175419282-co5ueozvy" class="form-results-container inline">
+                        <div id="form-score-idevice-1778175419282-co5ueozvy" class="score-text">Puntuación.</div>
+                        <div id="form-result-test-idevice-1778175419282-co5ueozvy" class="score-text phrase-score"></div>
+                    </div>
+                    <div class="form-buttons-container inline">
+                        <input id="form-button-check-idevice-1778175419282-co5ueozvy" class="btn btn-primary" type="button" value="Comprobar"
+                            data-id="idevice-1778175419282-co5ueozvy" data-pass-rate="" />
+                        <input id="form-button-reset-idevice-1778175419282-co5ueozvy" type="button" value="Reiniciar"
+                            data-id="idevice-1778175419282-co5ueozvy" class="btn btn-primary"  style="display:none" />
+                        <input id="form-button-show-answers-idevice-1778175419282-co5ueozvy" class="btn btn-primary" type="button" value="Mostrar respuestas"
+                            data-id="idevice-1778175419282-co5ueozvy" style="display: " />
+
+                    </div>
+                </div>
+                <div class="Games-BottonContainer">
+                    <div class="Games-GetScore">
+                        <input id="frmPSendScore-idevice-1778175419282-co5ueozvy" type="button" value="Guardar la puntuación" class="feedbackbutton Games-SendScore" style="display:none"/> <span class="Games-RepeatActivity"></span>
+                    </div>
+                </div>
+                
+            </div>
+            <div class="questionsMedia" style="display:none"></div>
+            
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778175419282-co5ueozvy","evaluation":false,"evaluationID":"769ef769-0c07-4e03-b3b4-ca2da8b12c66","repeatActivity":true,"isScorm":0,"textButtonScorm":"Guardar la puntuación","weighted":100,"msgs":{"msgScoreScorm":"La puntuación no se puede guardar porque esta página no forma parte  de un paquete SCORM.","msgYouScore":"Tu puntuación es","msgScore":"Puntuación","msgWeight":"Peso","msgYouLastScore":"La última puntuación guardada es","msgOnlySaveScore":"¡Solo puede guardar la puntuación una vez!","msgOnlySave":"Solo puede guardar una vez","msgOnlySaveAuto":"Su puntuación se guardará después de cada pregunta. Solo puede jugar una vez.","msgSaveAuto":"Su puntuación se guardará automáticamente después de cada pregunta.","msgSeveralScore":"Puede guardar la puntuación tantas veces como quiera","msgPlaySeveralTimes":"Puede realizar esta actividad cuantas veces quiera","msgActityComply":"Ya ha realizado esta actividad.","msgUncompletedActivity":"Actividad no completada","msgSuccessfulActivity":"Actividad superada. Puntuación: %s","msgUnsuccessfulActivity":"Actividad no superada. Puntuación: %s","msgTypeGame":"Formulario","msgStartGame":"Pulsa aquí para empezar","msgTime":"Tiempo por pregunta","msgSaveScore":"Guardar la puntuación","msgResult":"Resultado","msgCheck":"Comprobar","msgReset":"Reiniciar","msgShowAnswers":"Mostrar respuestas","msgTestResultPass":"¡Felicidades! Has pasado la prueba","msgTestResultNotPass":"Lo siento. Has fallado la prueba","msgTrueFalseHelp":"Di si la afirmación es verdadera o falsa","msgDropdownHelp":"Elige la respuesta correcta entre las opciones propuestas","msgFillHelp":"Rellena los espacios en blanco con la palabra apropiada","msgSingleSelectionHelp":"Opción múltiple con solo una respuesta correcta","msgMultipleSelectionHelp":"Opción múltiple con varias respuestas correctas","msgPlayStart":"Pulsa aquí para empezar","msgTrue":"Verdadero","msgFalse":"Falso","msgNext":"Siguiente","msgPrevious":"Anterior","msgSuggestion":"Sugerencia"},"id":"idevice-1778175419282-co5ueozvy","questionsRandom":false,"percentageQuestions":"100","time":"0","eXeFormInstructions":"<p>Responde a las preguntas del cuestionario</p>","questionsData":[{"id":"1778176125145-6IYLW","activityType":"selection","baseText":"<p>¿Quién bautizó a Jesús?</p>","feedbackRight":"","feedbackWrong":"","suggestion":"","wrongAnswersValue":"","selectionType":"multiple","answers":[[true,"Juan Bautista"],[false,"Un cura"],[false,"Pedro"],[false,"No se bautizó"]],"answer":"1","capitalization":false,"strict":false,"order":0,"customScore":1,"time":0},{"id":"1778176276212-6QU5D","activityType":"selection","baseText":"<p>¿Dónde se bautizó Jesús?</p>","feedbackRight":"","feedbackWrong":"","suggestion":"","wrongAnswersValue":"","selectionType":"multiple","answers":[[false,"Río Nilo"],[true,"Río Jordán"],[false,"Iglesia"],[false,"Sinagoga"]],"answer":"1","capitalization":false,"strict":false,"order":0,"customScore":1,"time":0},{"id":"1778176439031-0RCDH","activityType":"selection","baseText":"<p>¿Cómo bajó el Espíritu Santo del cielo en el bautismo de Jesús?</p>","feedbackRight":"","feedbackWrong":"","suggestion":"","wrongAnswersValue":"","selectionType":"multiple","answers":[[false,"No bajó"],[true,"En forma de paloma"],[false,"En forma de águila"],[false,"En forma de conejo"]],"answer":"1","capitalization":false,"strict":false,"order":0,"customScore":1,"time":0},{"id":"1778176583958-ZLJUP","activityType":"selection","baseText":"<p>¿Cuántos años tenía Jesús cuando se bautizó?</p>","feedbackRight":"","feedbackWrong":"","suggestion":"","wrongAnswersValue":"","selectionType":"multiple","answers":[[false,"33"],[false,"1"],[false,"15"],[true,"30"]],"answer":"1","capitalization":false,"strict":false,"order":0,"customScore":1,"time":0},{"id":"1778176747937-6UID7","activityType":"selection","baseText":"<p>¿Dónde fue Jesús después de ser bautizado?</p>","feedbackRight":"","feedbackWrong":"","suggestion":"","wrongAnswersValue":"","selectionType":"single","answers":[[true,"Al desierto"],[false," A una fiesta"],[false,"Al cielo"],[false,"A Europa"]],"answer":"1","capitalization":false,"strict":false,"order":0,"customScore":1,"time":0},{"id":"1778176939037-6J414","activityType":"selection","baseText":"<p>Con su bautismo Jesús comienza...</p>","feedbackRight":"","feedbackWrong":"","suggestion":"","wrongAnswersValue":"","selectionType":"multiple","answers":[[true,"Su vida privada"],[false,"Su semana"],[false,"Su vida pública"],[false,"Su estudio"]],"answer":"1","capitalization":false,"strict":false,"order":0,"customScore":1,"time":0},{"id":"1778177057566-K22CL","activityType":"selection","baseText":"<p>¿Qué dijo Dios cuando Jesús fue Bautizado?</p>","feedbackRight":"","feedbackWrong":"","suggestion":"","wrongAnswersValue":"","selectionType":"single","answers":[[false,"Nada."],[false,"Ahora envió la paloma."],[true,"Este es mi hijo amado."],[false,"Juan, bien hecho."]],"answer":"1","capitalization":false,"strict":false,"order":0,"customScore":1,"time":0},{"id":"1778177202585-RXZ7K","activityType":"selection","baseText":"<p>Para los cristianos el bautismo es...</p>","feedbackRight":"","feedbackWrong":"","suggestion":"","wrongAnswersValue":"","selectionType":"single","answers":[[false,"Un mandamiento."],[false,"Un juego."],[false,"Una comida familiar."],[true,"Un sacramento."]],"answer":"1","capitalization":false,"strict":false,"order":0,"customScore":1,"time":0},{"id":"1778177312481-4G5OO","activityType":"selection","baseText":"<p>¿Con qué fue bautizado Jesús?</p>","feedbackRight":"","feedbackWrong":"","suggestion":"","wrongAnswersValue":"","selectionType":"multiple","answers":[[true,"Agua"],[false,"Aceite"],[false,"Vino"],[false,"Óleo"]],"answer":"1","capitalization":false,"strict":false,"order":0,"customScore":1,"time":0},{"id":"1778177406449-YT9ZC","activityType":"selection","baseText":"<p>¿Dónde nos bautizamos los cristianos?</p>","feedbackRight":"","feedbackWrong":"","suggestion":"","wrongAnswersValue":"","selectionType":"single","answers":[[false,"En el mar."],[true,"En la Iglesia."],[false,"En la calle."],[false,"En un restaurante."]],"answer":"1","capitalization":false,"strict":false,"order":0,"customScore":1,"time":0},{"id":"1778177547893-2QLEH","activityType":"selection","baseText":"<p>¿Cuándo nos podemos bautizar los cristianos?</p>","feedbackRight":"","feedbackWrong":"","suggestion":"","wrongAnswersValue":"","selectionType":"single","answers":[[false,"Solo hasta que cumplamos el primer año."],[false,"Hasta los 10 años."],[false,"Hasta los 30 años."],[true,"Durante toda la vida."]],"answer":"1","capitalization":false,"strict":false,"order":0,"customScore":1,"time":0},{"id":"1778177654252-211AT","activityType":"selection","baseText":"<p>Con el bautismo entramos a formar parte de...</p>","feedbackRight":"","feedbackWrong":"","suggestion":"","wrongAnswersValue":"","selectionType":"single","answers":[[true,"La Iglesia."],[false,"Los amigos."],[false,"Los niños."],[false,"Los españoles."]],"answer":"1","capitalization":false,"strict":false,"order":0,"customScore":1,"time":0},{"id":"1778177750526-4S9ZO","activityType":"selection","baseText":"<p>¿Qué parentesco familiar tenía Juan Bautista con Jesús?</p>","feedbackRight":"","feedbackWrong":"","suggestion":"","wrongAnswersValue":"","selectionType":"single","answers":[[false,"Era su tío."],[false,"Era su hermano."],[true,"Era su primo."],[false,"No eran familia."]],"answer":"1","capitalization":false,"strict":false,"order":0,"customScore":1,"time":0},{"id":"1778178001254-ZH5SX","activityType":"selection","baseText":"<p>¿Qué palabras dice el sacerdote al bautizarnos?</p>","feedbackRight":"","feedbackWrong":"","suggestion":"","wrongAnswersValue":"","selectionType":"single","answers":[[true,"Yo te bautizo en el nombre del Padre, del Hijo y del Espíritu Santo."],[false,"Yo te bautizo para que sea bueno."],[false,"Yo te bautizo porque me lo han pedido tus padres."],[false,"Yo te bautizo en mi nombre."]],"answer":"1","capitalization":false,"strict":false,"order":0,"customScore":1,"time":0},{"id":"1778178105999-KWFBE","activityType":"selection","baseText":"<p>¿Qué color se usa en el bautismo?</p>","feedbackRight":"","feedbackWrong":"","suggestion":"","wrongAnswersValue":"","selectionType":"single","answers":[[false,"Rojo"],[false,"Verde"],[true,"Blanco"],[false,"Morado"]],"answer":"1","capitalization":false,"strict":false,"order":0,"customScore":1,"time":0},{"id":"1778178244174-EYY55","activityType":"selection","baseText":"<p>Símbolos del bautismo cristiano</p>","feedbackRight":"","feedbackWrong":"","suggestion":"","wrongAnswersValue":"","selectionType":"multiple","answers":[[true,"Agua."],[true,"Óleo."],[true,"Luz."],[false,"Madera."]],"answer":"1","capitalization":false,"strict":false,"order":0,"customScore":1,"time":0},{"id":"1778178327058-UKQ2A","activityType":"selection","baseText":"<p>¿Qué se abrieron cuando Jesús fue bautizado?</p>","feedbackRight":"","feedbackWrong":"","suggestion":"","wrongAnswersValue":"","selectionType":"single","answers":[[false,"El agua."],[true,"Los cielos."],[false,"La tierra."],[false,"Nada."]],"answer":"1","capitalization":false,"strict":false,"order":0,"customScore":1,"time":0},{"id":"1778178441535-LB8AX","activityType":"selection","baseText":"<p>¿Quién nos bautiza a los cristianos?</p>","feedbackRight":"","feedbackWrong":"","suggestion":"","wrongAnswersValue":"","selectionType":"single","answers":[[false,"Nuestros padres."],[false,"Unos amigos."],[true,"Un sacerdote."],[false,"Cualquier persona."]],"answer":"1","capitalization":false,"strict":false,"order":0,"customScore":1,"time":0},{"id":"1778178529935-56BQE","activityType":"selection","baseText":"<p>¿Cuántos son los sacramentos de la Iglesia católica?</p>","feedbackRight":"","feedbackWrong":"","suggestion":"","wrongAnswersValue":"","selectionType":"single","answers":[[false,"1"],[true,"7"],[false,"10"],[false,"5"]],"answer":"1","capitalization":false,"strict":false,"order":0,"customScore":1,"time":0},{"id":"1778178708338-PFSHP","activityType":"selection","baseText":"<p>El bautismo es un sacramento de...</p>","feedbackRight":"","feedbackWrong":"","suggestion":"","wrongAnswersValue":"","selectionType":"single","answers":[[true,"Iniciación."],[false,"Confirmación."],[false,"Fiesta."],[false,"No es un sacramento."]],"answer":"1","capitalization":false,"strict":false,"order":0,"customScore":1,"time":0}],"passRate":5,"addBtnAnswers":true,"eXeIdeviceTextAfter":"","showSlider":false}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1778178812570-82bbcgu9k</odePageId>
+  <odeParentPageId>page-movom2jd-5t2lp7tua</odeParentPageId>
+  <pageName>RETO BLOOKET</pageName>
+  <odeNavStructureOrder>14</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>RETO BLOOKET</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1778178812570-82bbcgu9k</odePageId>
+      <odeBlockId>block-1778178819678-xv85z6v19</odeBlockId>
+      <blockName>NOS DIVERTIMOS CON BLOOKET</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778178812570-82bbcgu9k</odePageId>
+          <odeBlockId>block-1778178819678-xv85z6v19</odeBlockId>
+          <odeIdeviceId>idevice-1778178819677-5h6t1uab9</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <div class="exe-text-activity"><dl><div class="inline"><dt><span title="Trabajo con ordenador">Trabajo con ordenador</span></dt><dd>10 minutos</dd></div><div class="inline"><dt><span title="Agrupamiento individual">Agrupamiento individual</span></dt><dd>TODA LA CLASE</dd></div></dl><p>Ya que hemos realizado nuestra evaluación a través del formulario, vamos a divertirnos con este reto de blooket, que nos permitirá volver a repasar las respuesta de una manera amena y con distintos retos en el juego.</p>
+<p>Accede a la web de blooket y clica "Join a game", posteriormente introduce el número que aparece en la pantalla digital del aula y pon tu nombre como nick para que la puntuación pueda ser registrada.</p>
+<p><a href="https://www.blooket.com/" title="">https://www.blooket.com/</a></p>
+<p>Si no puedes acceder a través de este link, accede a la página de webs de referencia y cliquea en la web de Blooket.</p>
+<p>¡¡ Mucha suerte y a divertirte!!</p></div>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778178819677-5h6t1uab9","textInfoDurationInput":"10 minutos","textInfoDurationTextInput":"Trabajo con ordenador","textInfoParticipantsInput":"TODA LA CLASE","textInfoParticipantsTextInput":"Agrupamiento individual","textTextarea":"<div class=\"exe-text-activity\"><dl><div class=\"inline\"><dt><span title=\"Trabajo con ordenador\">Trabajo con ordenador</span></dt><dd>10 minutos</dd></div><div class=\"inline\"><dt><span title=\"Agrupamiento individual\">Agrupamiento individual</span></dt><dd>TODA LA CLASE</dd></div></dl><p>Ya que hemos realizado nuestra evaluación a través del formulario, vamos a divertirnos con este reto de blooket, que nos permitirá volver a repasar las respuesta de una manera amena y con distintos retos en el juego.</p>\n<p>Accede a la web de blooket y clica \"Join a game\", posteriormente introduce el número que aparece en la pantalla digital del aula y pon tu nombre como nick para que la puntuación pueda ser registrada.</p>\n<p><a href=\"https://www.blooket.com/\" title=\"\">https://www.blooket.com/</a></p>\n<p>Si no puedes acceder a través de este link, accede a la página de webs de referencia y cliquea en la web de Blooket.</p>\n<p>¡¡ Mucha suerte y a divertirte!!</p></div>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1778179572267-0zosl6npf</odePageId>
+  <odeParentPageId>page-movom2jd-5t2lp7tua</odeParentPageId>
+  <pageName>PRODUCTO FINAL. CONCLUSIÓN.</pageName>
+  <odeNavStructureOrder>15</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>PRODUCTO FINAL. CONCLUSIÓN.</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1778179572267-0zosl6npf</odePageId>
+      <odeBlockId>block-1778179589747-qlqhi8j7a</odeBlockId>
+      <blockName></blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778179572267-0zosl6npf</odePageId>
+          <odeBlockId>block-1778179589747-qlqhi8j7a</odeBlockId>
+          <odeIdeviceId>idevice-1778179589744-h1eb1u5tv</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <div class="exe-text-activity"><dl><div class="inline"><dt><span title="Trabajo con ordenador">Trabajo con ordenador</span></dt><dd>45 MINUTOS</dd></div><div class="inline"><dt><span title="Agrupamiento flexible">Agrupamiento flexible</span></dt><dd>Toda la clase</dd></div></dl><p>Pasamos a realizar nuestro producto final que supondrá las conclusiones de todo lo aprendido en nuestra situación de aprendizaje. Para ello os pondréis por grupo y tendréis que elaborar algún recurso con las principales ideas de nuestra situación de aprendizaje. Podéis usar cualquier plataforma de las que se encuentran en nuestra webs de referencia, pero os aconsejamos el uso de Google Docs, Canva o Genially, debido al tiempo que tenemos para realizarlo.</p>
+<p>Después deberéis exponer vuestro trabajo al resto de compañeros, mostrando la presentación a través de smart mirror en la pantalla digital del aula.</p>
+<p>Os dejo enlaces:</p>
+<p><a href="https://www.canva.com/education/">https://www.canva.com/education/</a></p>
+<p><a href="https://genial.ly/">https://genial.ly/</a></p>
+<p><a href="https://smartmirror.link">https://smartmirror.link</a></p>
+<p>Si queréis utilizar otra plataforma, ya sabéis que las tenemos en nuestra webs de referencia, pero atender a la duración de la actividad para entregarla en tiempo.</p>
+<p><br /></p><div class="iDevice_buttons feedback-button js-required"><input type="button" class="feedbacktooglebutton" value="Mostrar retroalimentación" data-text-a="Mostrar retroalimentación" data-text-b="Mostrar retroalimentación"></div><div class="feedback js-feedback js-hidden" style="display: none;"><p>¡¡ Mucho ánimo!! ¡¡Lo vais a hacer genial!!</p></div></div>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778179589744-h1eb1u5tv","textInfoDurationInput":"45 MINUTOS","textInfoDurationTextInput":"Trabajo con ordenador","textInfoParticipantsInput":"Toda la clase","textInfoParticipantsTextInput":"Agrupamiento flexible","textTextarea":"<div class=\"exe-text-activity\"><dl><div class=\"inline\"><dt><span title=\"Trabajo con ordenador\">Trabajo con ordenador</span></dt><dd>45 MINUTOS</dd></div><div class=\"inline\"><dt><span title=\"Agrupamiento flexible\">Agrupamiento flexible</span></dt><dd>Toda la clase</dd></div></dl><p>Pasamos a realizar nuestro producto final que supondrá las conclusiones de todo lo aprendido en nuestra situación de aprendizaje. Para ello os pondréis por grupo y tendréis que elaborar algún recurso con las principales ideas de nuestra situación de aprendizaje. Podéis usar cualquier plataforma de las que se encuentran en nuestra webs de referencia, pero os aconsejamos el uso de Google Docs, Canva o Genially, debido al tiempo que tenemos para realizarlo.</p>\n<p>Después deberéis exponer vuestro trabajo al resto de compañeros, mostrando la presentación a través de smart mirror en la pantalla digital del aula.</p>\n<p>Os dejo enlaces:</p>\n<p><a href=\"https://www.canva.com/education/\">https://www.canva.com/education/</a></p>\n<p><a href=\"https://genial.ly/\">https://genial.ly/</a></p>\n<p><a href=\"https://smartmirror.link\">https://smartmirror.link</a></p>\n<p>Si queréis utilizar otra plataforma, ya sabéis que las tenemos en nuestra webs de referencia, pero atender a la duración de la actividad para entregarla en tiempo.</p>\n<p><br /></p><div class=\"iDevice_buttons feedback-button js-required\"><input type=\"button\" class=\"feedbacktooglebutton\" value=\"Mostrar retroalimentación\" data-text-a=\"Mostrar retroalimentación\" data-text-b=\"Mostrar retroalimentación\"></div><div class=\"feedback js-feedback js-hidden\" style=\"display: none;\"><p>¡¡ Mucho ánimo!! ¡¡Lo vais a hacer genial!!</p></div></div>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":"<p>¡¡ Mucho ánimo!! ¡¡Lo vais a hacer genial!!</p>"}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1778181096853-aacjvr5uh</odePageId>
+  <odeParentPageId>page-movom2jd-5t2lp7tua</odeParentPageId>
+  <pageName>VALORACIÓN DE LA SITUACIÓN DE APRENDIZAJE.</pageName>
+  <odeNavStructureOrder>16</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>VALORACIÓN DE LA SITUACIÓN DE APRENDIZAJE.</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1778181096853-aacjvr5uh</odePageId>
+      <odeBlockId>block-1778181113040-07k6u5vih</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778181096853-aacjvr5uh</odePageId>
+          <odeBlockId>block-1778181113040-07k6u5vih</odeBlockId>
+          <odeIdeviceId>idevice-1778181113037-cud1bj1ub</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <div class="exe-text-activity"><p>Realizamos otra lluvia de ideas sobre cómo valoramos la situación de aprendizaje, Vamos a guiarnos por estos items</p>
+<p><span>Escribe libremente tu opinión. Entre todos mejoramos nuestra clase de Religión. </span></p>
+<table border="1" style="width: 100.066%;">
+<tbody>
+<tr>
+<td style="width: 49.8861%;">¿Qué es lo que más te ha gustado?</td>
+<td style="width: 49.8861%;"><br /></td>
+</tr>
+<tr>
+<td style="width: 49.8861%;">Valora del 1 al 10 la situación de aprendizaje</td>
+<td style="width: 49.8861%;"><br /></td>
+</tr>
+<tr>
+<td style="width: 49.8861%;">¿Crees que la duración de las tareas ha sido correcta?</td>
+<td style="width: 49.8861%;"></td>
+</tr>
+<tr>
+<td style="width: 49.8861%;">¿Qué mejorarías de la situación de aprendizaje?</td>
+<td style="width: 49.8861%;"><br /></td>
+</tr>
+<tr>
+<td style="width: 49.8861%;">¿Qué te ha parecido la situación de aprendizaje como experiencia religiosa que nos acerca a Jesús?</td>
+<td style="width: 49.8861%;"></td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<p>Para acceder a nuestra valoración de la situación de aprendizaje, entra en la plataforma smart mirror en el siguiente enlace:</p>
+<p><a href="https://smartmirror.link">https://smartmirror.link</a></p>
+<p></p><div class="iDevice_buttons feedback-button js-required"><input type="button" class="feedbacktooglebutton" value="Mostrar retroalimentación" data-text-a="Mostrar retroalimentación" data-text-b="Mostrar retroalimentación"></div><div class="feedback js-feedback js-hidden" style="display: none;"><p>Escribe libremente tu opinión. Entre todos mejoramos nuestra clase de Religión. </p>
+<p>Muchas gracias por todas tus aportaciones</p></div></div>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778181113037-cud1bj1ub","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<div class=\"exe-text-activity\"><p>Realizamos otra lluvia de ideas sobre cómo valoramos la situación de aprendizaje, Vamos a guiarnos por estos items</p>\n<p><span>Escribe libremente tu opinión. Entre todos mejoramos nuestra clase de Religión. </span></p>\n<table border=\"1\" style=\"width: 100.066%;\">\n<tbody>\n<tr>\n<td style=\"width: 49.8861%;\">¿Qué es lo que más te ha gustado?</td>\n<td style=\"width: 49.8861%;\"><br /></td>\n</tr>\n<tr>\n<td style=\"width: 49.8861%;\">Valora del 1 al 10 la situación de aprendizaje</td>\n<td style=\"width: 49.8861%;\"><br /></td>\n</tr>\n<tr>\n<td style=\"width: 49.8861%;\">¿Crees que la duración de las tareas ha sido correcta?</td>\n<td style=\"width: 49.8861%;\"></td>\n</tr>\n<tr>\n<td style=\"width: 49.8861%;\">¿Qué mejorarías de la situación de aprendizaje?</td>\n<td style=\"width: 49.8861%;\"><br /></td>\n</tr>\n<tr>\n<td style=\"width: 49.8861%;\">¿Qué te ha parecido la situación de aprendizaje como experiencia religiosa que nos acerca a Jesús?</td>\n<td style=\"width: 49.8861%;\"></td>\n</tr>\n</tbody>\n</table>\n<p></p>\n<p>Para acceder a nuestra valoración de la situación de aprendizaje, entra en la plataforma smart mirror en el siguiente enlace:</p>\n<p><a href=\"https://smartmirror.link\">https://smartmirror.link</a></p>\n<p></p><div class=\"iDevice_buttons feedback-button js-required\"><input type=\"button\" class=\"feedbacktooglebutton\" value=\"Mostrar retroalimentación\" data-text-a=\"Mostrar retroalimentación\" data-text-b=\"Mostrar retroalimentación\"></div><div class=\"feedback js-feedback js-hidden\" style=\"display: none;\"><p>Escribe libremente tu opinión. Entre todos mejoramos nuestra clase de Religión. </p>\n<p>Muchas gracias por todas tus aportaciones</p></div></div>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":"<p>Escribe libremente tu opinión. Entre todos mejoramos nuestra clase de Religión. </p>\n<p>Muchas gracias por todas tus aportaciones</p>"}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-movom2jf-grrmmn0yv</odePageId>
+  <odeParentPageId>page-movom2jd-5t2lp7tua</odeParentPageId>
+  <pageName>LÍNEA TEMPORAL</pageName>
+  <odeNavStructureOrder>17</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>LÍNEA TEMPORAL</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>LÍNEA TEMPORAL</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>LÍNEA TEMPORAL</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-movom2jf-grrmmn0yv</odePageId>
+      <odeBlockId>block-1778104952851-hxcuo1q5q</odeBlockId>
+      <blockName>lÍNEA TEMPORAL DE SA EL BAUTISMO DE JESÚS</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-movom2jf-grrmmn0yv</odePageId>
+          <odeBlockId>block-1778104952851-hxcuo1q5q</odeBlockId>
+          <odeIdeviceId>idevice-1778104952849-guw4tnf33</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><a href="https://view.genially.com/69f62d91b5c8011b753d3fc7" title="SA EL BAUTISMO DE JESÚS">https://view.genially.com/69f62d91b5c8011b753d3fc7</a></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778104952849-guw4tnf33","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><a href=\"https://view.genially.com/69f62d91b5c8011b753d3fc7\" title=\"SA EL BAUTISMO DE JESÚS\">https://view.genially.com/69f62d91b5c8011b753d3fc7</a></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1778184159736-907694jx1</odePageId>
+  <odeParentPageId>page-movom2jd-5t2lp7tua</odeParentPageId>
+  <pageName>SIGUIENTE AVENTURA...</pageName>
+  <odeNavStructureOrder>18</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>SIGUIENTE AVENTURA...</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1778184159736-907694jx1</odePageId>
+      <odeBlockId>block-1778184165543-opn13eqcp</odeBlockId>
+      <blockName>Nos motivamos para la siguiente aventura.</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778184159736-907694jx1</odePageId>
+          <odeBlockId>block-1778184165543-opn13eqcp</odeBlockId>
+          <odeIdeviceId>idevice-1778184165541-isr8fb7dv</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <div class="exe-text-activity"><dl><div class="inline"><dt><span title="Vídeo de motivación">Vídeo de motivación</span></dt><dd>5 minutos</dd></div><div class="inline"><dt><span title="Agrupamiento flexible">Agrupamiento flexible</span></dt><dd>Toda la clase</dd></div></dl><p>Una vez finalizada nuestra primera aventura, veremos solo el principio del vídeo de nuestra segunda aventura. Con ello nos ilusionaremos para emprender nuevos aprendizajes a través de la vida de Jesús. Solo os puedo decir que en la siguiente sesión deberemos superar retos más difíciles que en nuestra primera aventura y que usaremos material de Educación Física.</p>
+<figure class="exe-figure exe-media position-center license-standard-youtube" style="width: 560px;" id="fig_f7hriyy28"><iframe width="560" height="314" src="https://www.youtube.com/embed/Xz7JYc8ZuYk" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe>
+<figcaption class="figcaption"><span class="author">FCBH Gospel Films</span>. <span class="title"><em>La Tentación de Jesús por Satanás</em></span> <span class="license"><span class="sep">(</span><a href="https://www.youtube.com/static?template=terms" rel="license nofollow noopener" target="_blank">Licencia de YouTube estándar</a><span class="sep">)</span></span></figcaption>
+</figure>
+<p></p>
+<p><br /></p>
+<p><br /></p></div>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778184165541-isr8fb7dv","textInfoDurationInput":"5 minutos","textInfoDurationTextInput":"Vídeo de motivación","textInfoParticipantsInput":"Toda la clase","textInfoParticipantsTextInput":"Agrupamiento flexible","textTextarea":"<div class=\"exe-text-activity\"><dl><div class=\"inline\"><dt><span title=\"Vídeo de motivación\">Vídeo de motivación</span></dt><dd>5 minutos</dd></div><div class=\"inline\"><dt><span title=\"Agrupamiento flexible\">Agrupamiento flexible</span></dt><dd>Toda la clase</dd></div></dl><p>Una vez finalizada nuestra primera aventura, veremos solo el principio del vídeo de nuestra segunda aventura. Con ello nos ilusionaremos para emprender nuevos aprendizajes a través de la vida de Jesús. Solo os puedo decir que en la siguiente sesión deberemos superar retos más difíciles que en nuestra primera aventura y que usaremos material de Educación Física.</p>\n<figure class=\"exe-figure exe-media position-center license-standard-youtube\" style=\"width: 560px;\" id=\"fig_f7hriyy28\"><iframe width=\"560\" height=\"314\" src=\"https://www.youtube.com/embed/Xz7JYc8ZuYk\" allowfullscreen=\"allowfullscreen\" data-mce-fragment=\"1\"></iframe>\n<figcaption class=\"figcaption\"><span class=\"author\">FCBH Gospel Films</span>. <span class=\"title\"><em>La Tentación de Jesús por Satanás</em></span> <span class=\"license\"><span class=\"sep\">(</span><a href=\"https://www.youtube.com/static?template=terms\" rel=\"license nofollow noopener\" target=\"_blank\">Licencia de YouTube estándar</a><span class=\"sep\">)</span></span></figcaption>\n</figure>\n<p></p>\n<p><br /></p>\n<p><br /></p></div>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1778183705487-idkoma3rh</odePageId>
+  <odeParentPageId>page-movom2jd-5t2lp7tua</odeParentPageId>
+  <pageName>¿CÓMO SE NOS VA A EVALUAR?</pageName>
+  <odeNavStructureOrder>20</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>¿CÓMO SE NOS VA A EVALUAR?</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1778183705487-idkoma3rh</odePageId>
+      <odeBlockId>block-1778183718741-93pqovjdy</odeBlockId>
+      <blockName>CRITERIOS DE EVALUACIÓN</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778183705487-idkoma3rh</odePageId>
+          <odeBlockId>block-1778183718741-93pqovjdy</odeBlockId>
+          <odeIdeviceId>idevice-1778183718739-zafmli2av</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><br /></p>
+<p>Criterios de Evaluación de las tareas vinculados con su tiempo de duración, herramientas para usar y agrupamientos de alumnado.</p>
+<p><a href="https://docs.google.com/document/d/1TVrekgD7xlnDsfqhtq6Q5dhNcLEoIK8KVNe4Q9ag-Eo/edit?usp=sharing" title="Criterios de Evaluación">https://docs.google.com/document/d/1TVrekgD7xlnDsfqhtq6Q5dhNcLEoIK8KVNe4Q9ag-Eo/edit?usp=sharing</a></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778183718739-zafmli2av","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><br /></p>\n<p>Criterios de Evaluación de las tareas vinculados con su tiempo de duración, herramientas para usar y agrupamientos de alumnado.</p>\n<p><a href=\"https://docs.google.com/document/d/1TVrekgD7xlnDsfqhtq6Q5dhNcLEoIK8KVNe4Q9ag-Eo/edit?usp=sharing\" title=\"Criterios de Evaluación\">https://docs.google.com/document/d/1TVrekgD7xlnDsfqhtq6Q5dhNcLEoIK8KVNe4Q9ag-Eo/edit?usp=sharing</a></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1778181765900-7pv2b1l0j</odePageId>
+  <odeParentPageId>page-movom2jd-5t2lp7tua</odeParentPageId>
+  <pageName>¿CON QUE SE NOS VA A EVALUAR?</pageName>
+  <odeNavStructureOrder>21</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>¿CON QUE SE NOS VA A EVALUAR?</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>¿CON QUE SE NOS VA A EVALUAR?</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1778181765900-7pv2b1l0j</odePageId>
+      <odeBlockId>block-1778181770772-db4e1myup</odeBlockId>
+      <blockName>Instrumentos de Evaluación.</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778181765900-7pv2b1l0j</odePageId>
+          <odeBlockId>block-1778181770772-db4e1myup</odeBlockId>
+          <odeIdeviceId>idevice-1778181770770-36uc2dlun</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Instrumentos de Evaluación.</p>
+<p><br />Como instrumentos de evaluación de mi situación de aprendizaje voy a utilizar el cuestionario a través de la plataforma blooket y de un cuestionario exelearning. Para ello he realizado un cuestionario en dicha plataforma adecuado a la temática que hemos trabajado durante nuestra situación de aprendizaje. Lo realizaré al comienzo de la sesión y al finalizar, para ver la evolución del alumnado. Este instrumento me permite evaluar si el alumnado ha entendido y ha adquirido los conocimientos sobre la situación de aprendizaje que hemos trabajado. Estas plataformas te dan los resultados de forma directa de cada uno de los alumnos y alumnas, por tanto esta será una nota cuantificable en dicha situación de aprendizaje.</p>
+<p>Aquí le dejo el cuestionario Blooket que he realizado para esta situación de aprendizaje:</p>
+<p><br /></p>
+<p><a href="https://dashboard.blooket.com/set/698b750b5498c29317cdc7a4">https://dashboard.blooket.com/set/698b750b5498c29317cdc7a4</a></p>
+<p><br />También utilizaré para evaluar una lista de control. Este instrumento me permitirá evaluar si el alumnado ha adquirido las competencias necesarias de la situación de aprendizaje.</p>
+<p> </p>
+<table border="1" style="width: 100.066%;">
+<tbody>
+<tr>
+<td style="width: 33.2575%;">LISTA DE CONTROL</td>
+<td style="width: 33.2575%;">SI</td>
+<td style="width: 33.2575%;">NO</td>
+</tr>
+<tr>
+<td style="width: 33.2575%;">Ha participado en la lluvia de ideas, realizando al menos una aportación.</td>
+<td style="width: 33.2575%;"><br /></td>
+<td style="width: 33.2575%;"><br /></td>
+</tr>
+<tr>
+<td style="width: 33.2575%;">Reflexiona sobre lo trabajado en clase</td>
+<td style="width: 33.2575%;"><br /></td>
+<td style="width: 33.2575%;"><br /></td>
+</tr>
+<tr>
+<td style="width: 33.2575%;">Los proyectos presentados cumplen los requisitos de originalidad y de propiedad.</td>
+<td style="width: 33.2575%;"><br /></td>
+<td style="width: 33.2575%;"><br /></td>
+</tr>
+<tr>
+<td style="width: 33.2575%;">Los mapas conceptuales tienen información suficiente sobre el tema.</td>
+<td style="width: 33.2575%;"><br /></td>
+<td style="width: 33.2575%;"><br /></td>
+</tr>
+<tr>
+<td style="width: 33.2575%;">El alumnado ha hecho una valoración de la situación de aprendizaje.</td>
+<td style="width: 33.2575%;"><br /></td>
+<td style="width: 33.2575%;"><br /></td>
+</tr>
+<tr>
+<td style="width: 33.2575%;">El alumnado ha enviado en tiempo y forma los trabajos requeridos.</td>
+<td style="width: 33.2575%;"><br /></td>
+<td style="width: 33.2575%;"><br /></td>
+</tr>
+<tr>
+<td style="width: 33.2575%;">
+<p>El alumnado ha superado las pruebas con al menos un 50% de respuestas correctas.</p>
+<p> </p>
+</td>
+<td style="width: 33.2575%;"><br /></td>
+<td style="width: 33.2575%;"><br /></td>
+</tr>
+<tr>
+<td style="width: 33.2575%;">Ha participado de manera colaborativa en los retos y proyectos.</td>
+<td style="width: 33.2575%;"><br /></td>
+<td style="width: 33.2575%;"></td>
+</tr>
+</tbody>
+</table>
+<p> </p>
+<p>Estos dos instrumentos se complementan muy bien para la evaluación, ya que uno se centra más en lo cuantificable, mientras que el otro se centra más en lo cualitativo, de tal manera que nos permite evaluar al alumnado de una manera global sobre toda la situación de aprendizaje, permitiéndonos valorar el nivel competencial que tiene el alumnado.</p>
+<p><br />Los datos los obtendré de cada una de las actividades que he planteado. Cuando realicen la actividad podré evaluar la actividad con los item correspondiente a esa actividad. El producto final se realizaría a través de  Genially/Canva/Google docs y se trataría de un mapa conceptual y la exposición del proyecto presentado, que los evaluo con tres item: “ Los proyectos presentados cumplen con los requisitos de originalidad y propiedad” y “los mapas conceptuales tienen información suficiente sobre el tema”, “el trabajo está enviado en tiempo y forma” y "Participa de manera colaborativa en los retos y proyectos".</p>
+<p>Los otros items se refieren a otras actividades planteadas en la lluvia de ideas, donde habrá 3 cuadros: 1.Conceptos de la SA. 2. Reflexiones de la SA. 3. Valoración de la SA.</p>
+<p><br />La implementación se trata de una mejora de los resultados, por ello en las actividades propuestas, hago el blooket como actividad inicial de motivación y al final de las sesiones la realizo como actividad evaluable. Esto me permite no solo obtener una nota cuantificable, sino valorar si el alumnado ha mejorado y ha aprendido conceptos que antes no dominaba.</p>
+<p>Mientras que en la lluvia de ideas y en el proyecto permiten al alumnado mejorar en nuevas competencias que complementan a  la situación de aprendizaje, como son una buena labor de síntesis, un buen manejo de los programas que se usen para la realización del proyecto: Canva o Genially, y a mejorar en su competencia comunicativa a través de la exposición y la representación.</p>
+<p><br />Las posibles variables que se den a lo largo de la recogida de datos sobre los instrumentos de evaluación son las siguientes:</p>
+<p><br />Si no se pudiera hacer los blooket por falta de internet, el alumnado realizaría las preguntas escritas y de ahí se obtendría la nota cuantificable.<br />Si no se pudiera realizar las actividades de lluvia de ideas por internet el alumnado lo haría a través de la pizarra digital, mediante el lápiz de pizarra.<br />Si no se pudiera realizar la actividad del mapa conceptual a través de una aplicación el alumnado lo tendría que presentar en una cartulina y de ahí se evaluaría el instrumento de evaluación.<br />En caso de que haya alumnado que no pudiera entregarlo durante la sesión se le habilitaría el recurso a través de la plataforma de Google classroom, que es la que trabajamos en nuestro centro. </p>
+<p>Toda esta información también la podemos encontrar en el siguiente enlace:</p>
+<p><a href="https://docs.google.com/document/d/1VvFkYz_3o_raEcRibFfhdKj1OEJazC_6gxG_Sa497uQ/edit?usp=sharing" title="Instrumentos de evaluación.">https://docs.google.com/document/d/1VvFkYz_3o_raEcRibFfhdKj1OEJazC_6gxG_Sa497uQ/edit?usp=sharing</a></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778181770770-36uc2dlun","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Instrumentos de Evaluación.</p>\n<p><br />Como instrumentos de evaluación de mi situación de aprendizaje voy a utilizar el cuestionario a través de la plataforma blooket y de un cuestionario exelearning. Para ello he realizado un cuestionario en dicha plataforma adecuado a la temática que hemos trabajado durante nuestra situación de aprendizaje. Lo realizaré al comienzo de la sesión y al finalizar, para ver la evolución del alumnado. Este instrumento me permite evaluar si el alumnado ha entendido y ha adquirido los conocimientos sobre la situación de aprendizaje que hemos trabajado. Estas plataformas te dan los resultados de forma directa de cada uno de los alumnos y alumnas, por tanto esta será una nota cuantificable en dicha situación de aprendizaje.</p>\n<p>Aquí le dejo el cuestionario Blooket que he realizado para esta situación de aprendizaje:</p>\n<p><br /></p>\n<p><a href=\"https://dashboard.blooket.com/set/698b750b5498c29317cdc7a4\">https://dashboard.blooket.com/set/698b750b5498c29317cdc7a4</a></p>\n<p><br />También utilizaré para evaluar una lista de control. Este instrumento me permitirá evaluar si el alumnado ha adquirido las competencias necesarias de la situación de aprendizaje.</p>\n<p> </p>\n<table border=\"1\" style=\"width: 100.066%;\">\n<tbody>\n<tr>\n<td style=\"width: 33.2575%;\">LISTA DE CONTROL</td>\n<td style=\"width: 33.2575%;\">SI</td>\n<td style=\"width: 33.2575%;\">NO</td>\n</tr>\n<tr>\n<td style=\"width: 33.2575%;\">Ha participado en la lluvia de ideas, realizando al menos una aportación.</td>\n<td style=\"width: 33.2575%;\"><br /></td>\n<td style=\"width: 33.2575%;\"><br /></td>\n</tr>\n<tr>\n<td style=\"width: 33.2575%;\">Reflexiona sobre lo trabajado en clase</td>\n<td style=\"width: 33.2575%;\"><br /></td>\n<td style=\"width: 33.2575%;\"><br /></td>\n</tr>\n<tr>\n<td style=\"width: 33.2575%;\">Los proyectos presentados cumplen los requisitos de originalidad y de propiedad.</td>\n<td style=\"width: 33.2575%;\"><br /></td>\n<td style=\"width: 33.2575%;\"><br /></td>\n</tr>\n<tr>\n<td style=\"width: 33.2575%;\">Los mapas conceptuales tienen información suficiente sobre el tema.</td>\n<td style=\"width: 33.2575%;\"><br /></td>\n<td style=\"width: 33.2575%;\"><br /></td>\n</tr>\n<tr>\n<td style=\"width: 33.2575%;\">El alumnado ha hecho una valoración de la situación de aprendizaje.</td>\n<td style=\"width: 33.2575%;\"><br /></td>\n<td style=\"width: 33.2575%;\"><br /></td>\n</tr>\n<tr>\n<td style=\"width: 33.2575%;\">El alumnado ha enviado en tiempo y forma los trabajos requeridos.</td>\n<td style=\"width: 33.2575%;\"><br /></td>\n<td style=\"width: 33.2575%;\"><br /></td>\n</tr>\n<tr>\n<td style=\"width: 33.2575%;\">\n<p>El alumnado ha superado las pruebas con al menos un 50% de respuestas correctas.</p>\n<p> </p>\n</td>\n<td style=\"width: 33.2575%;\"><br /></td>\n<td style=\"width: 33.2575%;\"><br /></td>\n</tr>\n<tr>\n<td style=\"width: 33.2575%;\">Ha participado de manera colaborativa en los retos y proyectos.</td>\n<td style=\"width: 33.2575%;\"><br /></td>\n<td style=\"width: 33.2575%;\"></td>\n</tr>\n</tbody>\n</table>\n<p> </p>\n<p>Estos dos instrumentos se complementan muy bien para la evaluación, ya que uno se centra más en lo cuantificable, mientras que el otro se centra más en lo cualitativo, de tal manera que nos permite evaluar al alumnado de una manera global sobre toda la situación de aprendizaje, permitiéndonos valorar el nivel competencial que tiene el alumnado.</p>\n<p><br />Los datos los obtendré de cada una de las actividades que he planteado. Cuando realicen la actividad podré evaluar la actividad con los item correspondiente a esa actividad. El producto final se realizaría a través de  Genially/Canva/Google docs y se trataría de un mapa conceptual y la exposición del proyecto presentado, que los evaluo con tres item: “ Los proyectos presentados cumplen con los requisitos de originalidad y propiedad” y “los mapas conceptuales tienen información suficiente sobre el tema”, “el trabajo está enviado en tiempo y forma” y \"Participa de manera colaborativa en los retos y proyectos\".</p>\n<p>Los otros items se refieren a otras actividades planteadas en la lluvia de ideas, donde habrá 3 cuadros: 1.Conceptos de la SA. 2. Reflexiones de la SA. 3. Valoración de la SA.</p>\n<p><br />La implementación se trata de una mejora de los resultados, por ello en las actividades propuestas, hago el blooket como actividad inicial de motivación y al final de las sesiones la realizo como actividad evaluable. Esto me permite no solo obtener una nota cuantificable, sino valorar si el alumnado ha mejorado y ha aprendido conceptos que antes no dominaba.</p>\n<p>Mientras que en la lluvia de ideas y en el proyecto permiten al alumnado mejorar en nuevas competencias que complementan a  la situación de aprendizaje, como son una buena labor de síntesis, un buen manejo de los programas que se usen para la realización del proyecto: Canva o Genially, y a mejorar en su competencia comunicativa a través de la exposición y la representación.</p>\n<p><br />Las posibles variables que se den a lo largo de la recogida de datos sobre los instrumentos de evaluación son las siguientes:</p>\n<p><br />Si no se pudiera hacer los blooket por falta de internet, el alumnado realizaría las preguntas escritas y de ahí se obtendría la nota cuantificable.<br />Si no se pudiera realizar las actividades de lluvia de ideas por internet el alumnado lo haría a través de la pizarra digital, mediante el lápiz de pizarra.<br />Si no se pudiera realizar la actividad del mapa conceptual a través de una aplicación el alumnado lo tendría que presentar en una cartulina y de ahí se evaluaría el instrumento de evaluación.<br />En caso de que haya alumnado que no pudiera entregarlo durante la sesión se le habilitaría el recurso a través de la plataforma de Google classroom, que es la que trabajamos en nuestro centro. </p>\n<p>Toda esta información también la podemos encontrar en el siguiente enlace:</p>\n<p><a href=\"https://docs.google.com/document/d/1VvFkYz_3o_raEcRibFfhdKj1OEJazC_6gxG_Sa497uQ/edit?usp=sharing\" title=\"Instrumentos de evaluación.\">https://docs.google.com/document/d/1VvFkYz_3o_raEcRibFfhdKj1OEJazC_6gxG_Sa497uQ/edit?usp=sharing</a></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1778217700016-56sudlqzh</odePageId>
+  <odeParentPageId>page-movom2jd-5t2lp7tua</odeParentPageId>
+  <pageName>WEBS y VÍDEOS DE REFERENCIA (Curación de CONTENIDOS) </pageName>
+  <odeNavStructureOrder>21</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>WEBS y VÍDEOS DE REFERENCIA (Curación de CONTENIDOS) </value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1778217700016-56sudlqzh</odePageId>
+      <odeBlockId>block-1778217704988-h7zyjliae</odeBlockId>
+      <blockName>WEBS Y VÍDEOS PARA USAR EN NUESTRA SITUACIÓN DE APRENDIZAJE</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778217700016-56sudlqzh</odePageId>
+          <odeBlockId>block-1778217704988-h7zyjliae</odeBlockId>
+          <odeIdeviceId>idevice-1778217704986-zqhqvdqzw</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>WEBS DE REFERENCIA:</p>
+<p><a href="https://www.symbaloo.com/home/mix/13eOcXM5VL" title="Symbaloo. Webs de referencia">https://www.symbaloo.com/home/mix/13eOcXM5VL</a></p>
+<p>VÍDEOS DE REFERENCIA:</p>
+<p><a href="https://padlet.com/religionmaestro/las-aventuras-de-jesus-44xl1hhn8fdj60ja" title="Padlet. Vídeos de referencias.">https://padlet.com/religionmaestro/las-aventuras-de-jesus-44xl1hhn8fdj60ja</a></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778217704986-zqhqvdqzw","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>WEBS DE REFERENCIA:</p>\n<p><a href=\"https://www.symbaloo.com/home/mix/13eOcXM5VL\" title=\"Symbaloo. Webs de referencia\">https://www.symbaloo.com/home/mix/13eOcXM5VL</a></p>\n<p>VÍDEOS DE REFERENCIA:</p>\n<p><a href=\"https://padlet.com/religionmaestro/las-aventuras-de-jesus-44xl1hhn8fdj60ja\" title=\"Padlet. Vídeos de referencias.\">https://padlet.com/religionmaestro/las-aventuras-de-jesus-44xl1hhn8fdj60ja</a></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1778213267628-oh4w0zcf2</odePageId>
+  <odeParentPageId>page-movom2jd-5t2lp7tua</odeParentPageId>
+  <pageName>TODOS APRENDEMOS (DUA)</pageName>
+  <odeNavStructureOrder>22</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>TODOS APRENDEMOS (DUA)</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1778213267628-oh4w0zcf2</odePageId>
+      <odeBlockId>block-1778213300784-a8xslehn2</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778213267628-oh4w0zcf2</odePageId>
+          <odeBlockId>block-1778213300784-a8xslehn2</odeBlockId>
+          <odeIdeviceId>idevice-1778213300782-hutv06mct</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Esta situación de aprendizaje está creada para que todos y todas podamos disfrutar de aprender y sintamos que nuestras necesidades individuales están siendo atendidas. Se trata de que todos adquiramos los conocimientos y las competencias a nuestro ritmo y según nuestras características, convirtiéndose en un aprendizaje significativo en nuestras vidas.</p>
+<p>Para ello la presentación de contenidos se realizará por distintos medios para poder captar la atención y el interés de todo el alumnado.</p>
+<p>Los contenidos se presentan en los siguientes medios:</p>
+<p>Ambientación del aula.</p>
+<p>Láminas de dibujo en el aula.</p>
+<p>Explicación oral del maestro.</p>
+<p>Vídeos explicativos.</p>
+<p>Lecturas.</p>
+<p>Experimentación.</p>
+<p>Representación.</p>
+<p>En la parte de evaluación se ofrecerán distintos recursos al alumnado para que pueda desarrollar sus conocimientos y sus competencias de la mejor manera posible.</p>
+<p>Agrupamientos flexibles que se adapten a las necesidades de cada uno de los alumnos y alumnas.</p>
+<p>Actividades adaptadas atendiendo a las necesidades del alumnado:</p>
+<p>-Posibilidad de presentar el producto final en formato papel o cartulina.</p>
+<p>-Posibilidad de hacer los formularios escritos en papel.</p>
+<p><span style="font-size: 19.2px;">- Apoyo visual en los formularios para aquellos niños y niñas que lo necesiten.</span></p>
+<p><strong><span style="font-size: 19.2px;">Actividades de ampliación:</span></strong></p>
+<p><span style="font-size: 19.2px;">Visionado de vídeos explicativos que profundizan sobre el tema.</span></p>
+<p><a href="https://www.youtube.com/watch?v=3kmRmzTh1Ck" title="Vídeo explicativo: El bautismo de Jesús. CatoliKids">https://www.youtube.com/watch?v=3kmRmzTh1Ck</a></p>
+<p><span style="font-size: 19.2px;">Búsqueda en la Biblia de las citas bíblicas que hablan sobre el Bautismo y sus lecturas.</span></p>
+<p><span style="font-size: 19.2px;" title="Escape Room Sacramentos">Ampliamos nuestro conocimiento sobre el bautismo y otros sacramentos con el Escape Room de Genially preparado por Ana C. Reli</span></p>
+<p><a href="https://view.genially.com/647eedee2fb76500115971aa" title="Escape Room de los sacramentos. Ana C Reli">https://view.genially.com/647eedee2fb76500115971aa</a></p>
+<p><img src="{{context_path}}/content/resources/0a1dad27-b2df-48ef-a930-c47a9f09f795.png" width="225" height="80" alt="" /></p>
+<p></p>
+<p><br /></p>
+<p><br /></p>
+<p><br /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778213300782-hutv06mct","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Esta situación de aprendizaje está creada para que todos y todas podamos disfrutar de aprender y sintamos que nuestras necesidades individuales están siendo atendidas. Se trata de que todos adquiramos los conocimientos y las competencias a nuestro ritmo y según nuestras características, convirtiéndose en un aprendizaje significativo en nuestras vidas.</p>\n<p>Para ello la presentación de contenidos se realizará por distintos medios para poder captar la atención y el interés de todo el alumnado.</p>\n<p>Los contenidos se presentan en los siguientes medios:</p>\n<p>Ambientación del aula.</p>\n<p>Láminas de dibujo en el aula.</p>\n<p>Explicación oral del maestro.</p>\n<p>Vídeos explicativos.</p>\n<p>Lecturas.</p>\n<p>Experimentación.</p>\n<p>Representación.</p>\n<p>En la parte de evaluación se ofrecerán distintos recursos al alumnado para que pueda desarrollar sus conocimientos y sus competencias de la mejor manera posible.</p>\n<p>Agrupamientos flexibles que se adapten a las necesidades de cada uno de los alumnos y alumnas.</p>\n<p>Actividades adaptadas atendiendo a las necesidades del alumnado:</p>\n<p>-Posibilidad de presentar el producto final en formato papel o cartulina.</p>\n<p>-Posibilidad de hacer los formularios escritos en papel.</p>\n<p><span style=\"font-size: 19.2px;\">- Apoyo visual en los formularios para aquellos niños y niñas que lo necesiten.</span></p>\n<p><strong><span style=\"font-size: 19.2px;\">Actividades de ampliación:</span></strong></p>\n<p><span style=\"font-size: 19.2px;\">Visionado de vídeos explicativos que profundizan sobre el tema.</span></p>\n<p><a href=\"https://www.youtube.com/watch?v=3kmRmzTh1Ck\" title=\"Vídeo explicativo: El bautismo de Jesús. CatoliKids\">https://www.youtube.com/watch?v=3kmRmzTh1Ck</a></p>\n<p><span style=\"font-size: 19.2px;\">Búsqueda en la Biblia de las citas bíblicas que hablan sobre el Bautismo y sus lecturas.</span></p>\n<p><span style=\"font-size: 19.2px;\" title=\"Escape Room Sacramentos\">Ampliamos nuestro conocimiento sobre el bautismo y otros sacramentos con el Escape Room de Genially preparado por Ana C. Reli</span></p>\n<p><a href=\"https://view.genially.com/647eedee2fb76500115971aa\" title=\"Escape Room de los sacramentos. Ana C Reli\">https://view.genially.com/647eedee2fb76500115971aa</a></p>\n<p><img src=\"{{context_path}}/content/resources/0a1dad27-b2df-48ef-a930-c47a9f09f795.png\" width=\"225\" height=\"80\" alt=\"\" /></p>\n<p></p>\n<p><br /></p>\n<p><br /></p>\n<p><br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1778213105346-0e6jphzl4</odePageId>
+  <odeParentPageId>page-movom2jd-5t2lp7tua</odeParentPageId>
+  <pageName>GUÍA DIDÁCTICA</pageName>
+  <odeNavStructureOrder>23</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>GUÍA DIDÁCTICA</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1778213105346-0e6jphzl4</odePageId>
+      <odeBlockId>block-1778218695531-428m8vqjm</odeBlockId>
+      <blockName>PREPARAMOS Y DESARROLLAMOS LA SITUACIÓN DE APRENDIZAJE.</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778213105346-0e6jphzl4</odePageId>
+          <odeBlockId>block-1778218695531-428m8vqjm</odeBlockId>
+          <odeIdeviceId>idevice-1778218695528-mj41se2ac</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Esta situación de aprendizaje se encuentra enmarcada dentro de un proyecto más amplio que es: Las Aventuras de Jesús, que pretende enseñar al niño las vivencias de Jesús, que las experimente y que las reflexione y aplique en el mundo actual.</p>
+<p>Las tareas y los criterios de evaluación conectados a sus competencias básicas</p>
+<table border="1" style="width: 100.066%; height: 2557.53px;">
+<tbody>
+<tr style="height: 66.5938px;">
+<td style="width: 27.6941%; height: 66.5938px;">Tareas</td>
+<td style="width: 24.875%; height: 66.5938px;">Criterios de evaluación</td>
+<td style="width: 47.4283%; height: 66.5938px;">Competencias específicas</td>
+</tr>
+<tr style="height: 325.766px;">
+<td style="width: 27.6941%; height: 325.766px;">Blooket: Las aventuras de Jesus. Evaluación inicial. 20 preguntas sobre el Bautismo de Jesús</td>
+<td style="width: 24.875%; height: 325.766px;">Conocer el Credo de la fe cristiana, poniéndolo en diálogo con otras áreas de conocimiento científico y cultural y con otras religiones. </td>
+<td style="width: 47.4283%; height: 325.766px;">6. Comprender los contenidos básicos del cristianismo, valorando su<br />contribución a la sociedad, para disponer de una síntesis personal que permita<br />dialogar, desde la propia identidad social y cultural, con otras tradiciones<br />religiosas y áreas de conocimiento.<br /></td>
+</tr>
+<tr style="height: 556.141px;">
+<td style="width: 27.6941%; height: 556.141px;"> Aventuras de Jesús. 1º Aventura. Bautismos de Jesús. Ver vídeo de Nazaret en época de Jesús y el bautismo de Jesús<br /></td>
+<td style="width: 24.875%; height: 556.141px;">Reconocer y apreciar, desde la propia identidad cultural, la pluralidad de tradiciones y expresiones presentes en el contexto social, promoviendo el respeto y el conocimiento mutuo que favorece el encuentro y el diálogo intercultural. </td>
+<td style="width: 47.4283%; height: 556.141px;">4. Comprender y admirar el patrimonio cultural en algunas de sus expresiones<br />más significativas, disfrutando de su contemplación, analizando el universo<br />simbólico y vital que transmiten, para valorar la propia identidad cultural,<br />promover el diálogo intercultural y generar creaciones artísticas.</td>
+</tr>
+<tr style="height: 527.344px;">
+<td style="width: 27.6941%; height: 527.344px;">Representación del Bautismo de Jesús.</td>
+<td style="width: 24.875%; height: 527.344px;"> Expresar con autonomía a través de diversos lenguajes comunicativos la identidad personal reconociendo, desde la visión cristiana, la singularidad de todas las personas, desarrollando empatía y valorando la pluralidad. <br /></td>
+<td style="width: 47.4283%; height: 527.344px;">1. Descubrir, identificar y expresar los elementos clave de la dignidad y la<br />identidad personal en situaciones vitales cercanas, a través de biografías<br />inspiradoras y relatos bíblicos de alcance antropológico, para ir conformando la<br />propia identidad y sus relaciones con autonomía, responsabilidad y empatía.</td>
+</tr>
+<tr style="height: 469.75px;">
+<td style="width: 27.6941%; height: 469.75px;">
+<p>Reto: Ayuda a salir a Jesús del Río Jordán.</p>
+<p><br /></p>
+</td>
+<td style="width: 24.875%; height: 469.75px;">Cooperar activamente en la construcción de una convivencia pacífica y democrática reconociendo, en iniciativas y proyectos eclesiales, aquellos valores morales que promueven el bien común. </td>
+<td style="width: 47.4283%; height: 469.75px;">3. Identificar e interpretar las situaciones que perjudican o mejoran la buena<br />convivencia, analizándolas con las claves personales y sociales de la propuesta<br />cristiana, para fomentar el crecimiento moral, la cooperación con los demás y el<br />desarrollo de valores orientados al bien común.</td>
+</tr>
+<tr style="height: 498.547px;">
+<td style="width: 27.6941%; height: 498.547px;"> Valoración de la experiencia religiosa a través de la aplicación smart mirror.<br /></td>
+<td style="width: 24.875%; height: 498.547px;">Valorar la experiencia religiosa como desarrollo personal y social de la dimensión espiritual, interpretando y respetando lo religioso en la pluralidad de culturas y promoviendo el diálogo interreligioso. </td>
+<td style="width: 47.4283%; height: 498.547px;">5. Explorar, desarrollar y apreciar la propia interioridad y experiencia espiritual,<br />reconociéndola en las propias emociones, afectos, símbolos y creencias,<br />conociendo la experiencia de personajes relevantes de la tradición<br />judeocristiana y de otras religiones, para favorecer el autoconocimiento<br />personal, entender las vivencias de los otros y promover el diálogo y el respeto<br />entre las diferentes tradiciones religiosas.</td>
+</tr>
+<tr style="height: 37.7969px;">
+<td style="width: 27.6941%; height: 37.7969px;">Al final de todas las aventuras se volverá a realizar el blooket para comprobar si el alumnado ha adquirido las competencias correspondientes y se les planteará un reto a través de Genially/Canva u otro plataforma similar..</td>
+<td style="width: 24.875%; height: 37.7969px;">Conocer el Credo de la fe cristiana, poniéndolo en diálogo con otras áreas de conocimiento científico y cultural y con otras religiones.</td>
+<td style="width: 47.4283%; height: 37.7969px;">6. Comprender los contenidos básicos del cristianismo, valorando su<br />contribución a la sociedad, para disponer de una síntesis personal que permita<br />dialogar, desde la propia identidad social y cultural, con otras tradiciones<br />religiosas y áreas de conocimiento.</td>
+</tr>
+<tr style="height: 37.7969px;">
+<td style="width: 27.6941%; height: 37.7969px;"><br /></td>
+<td style="width: 24.875%; height: 37.7969px;"><br /></td>
+<td style="width: 47.4283%; height: 37.7969px;"><br /></td>
+</tr>
+<tr style="height: 37.7969px;">
+<td style="width: 27.6941%; height: 37.7969px;"><br /></td>
+<td style="width: 24.875%; height: 37.7969px;"><br /></td>
+<td style="width: 47.4283%; height: 37.7969px;"></td>
+</tr>
+</tbody>
+</table>
+<p>Para la preparación, tanto del proyecto como de las distintas situaciones de aprendizaje es imprescindible crear un ambiente que nos acerque al tiempo que vivió Jesús. Para ello en la puerta se coloca un cartel de Galilea, territorio donde vivió Jesús y se explica su ubicación. Dentro del aula he colocado un mapa con los diferentes territorios de la zona en las que transcurrirán las aventuras de Jesús, así como distintos carteles con las zonas del mapa cuya aventura la vamos a vivir dentro del aula. Por otro lado, las aventuras de Jesús como son: su bautismo y el desierto, los tengo que preparar la mañana que realizamos la actividad, puesto que utilizo zonas del colegio que son de uso común. En esta primera situación de aprendizaje he tenido que conseguir los siguientes materiales:</p>
+<p>Un plástico azul de 2m x 2m para hacer el río, un cartel con el nombre de Río Jordán.</p>
+<p>Dos bastones de madera para Juan Bautista y Jesús. Uno guía y otro es guiado.</p>
+<p>Una cuerda para que vayan en equipo durante el recorrido el resto de personajes.</p>
+<p>Un cubo de plástico y pelotas de pádel con los nombres de personajes amigos de Jesús para asignación de roles. </p>
+<p>Laminas y dibujos sobre el bautismos de Jesús.</p>
+<p>Paloma y nube de papel continuo para la representación.</p>
+<p>Para su desarrollo se han elaborado tanto cuestionarios en la plataforma Blooket como formulario de Exelearning, se han creado unas plataforma de contenidos(symbaloo y padlet) con unas webs y unos vídeos de referencia para uso tanto del alumnado como del profesorado que imparte la sesión.</p>
+<p>Es necesario reservar los equipos informáticos del centro educativo y asegurarse que están cargados y con acceso a internet.</p>
+<p><br /></p>
+<p>Los datos los obtendré de cada una de las actividades que he planteado. Cuando realicen la actividad podré evaluar la actividad con los item correspondiente a esa actividad. El producto final se realizaría a través de  Genially/Canva/Google docs y se trataría de un mapa conceptual y la exposición del proyecto presentado, que los evaluo con tres item: “ Los proyectos presentados cumplen con los requisitos de originalidad y propiedad” y “los mapas conceptuales tienen información suficiente sobre el tema”, “el trabajo está enviado en tiempo y forma” y "Participa de manera colaborativa en los retos y proyectos".</p>
+<p>Los otros items se refieren a otras actividades planteadas en la lluvia de ideas, donde habrá 3 cuadros: 1.Conceptos de la SA. 2. Reflexiones de la SA. 3. Valoración de la SA.</p>
+<p><br />La implementación se trata de una mejora de los resultados. Por ello en las actividades propuestas, hago el blooket como actividad inicial de motivación y al final de las sesiones la realizo como actividad evaluable. Esto me permite no solo obtener una nota cuantificable, sino valorar si el alumnado ha mejorado y ha aprendido conceptos que antes no dominaba.</p>
+<p>Mientras que en la lluvia de ideas y en el proyecto permiten al alumnado mejorar en nuevas competencias que complementan a  la situación de aprendizaje, como son una buena labor de síntesis, un buen manejo de los programas que se usen para la realización del proyecto: Canva o Genially, y a mejorar en su competencia comunicativa a través de la exposición y la representación.</p>
+<p><br />Las posibles variables que se den a lo largo de la recogida de datos sobre los instrumentos de evaluación son las siguientes:</p>
+<p><br />Si no se pudiera hacer los blooket por falta de internet, el alumnado realizaría las preguntas escritas y de ahí se obtendría la nota cuantificable.<br />Si no se pudiera realizar las actividades de lluvia de ideas por internet el alumnado lo haría a través de la pizarra digital, mediante el lápiz de pizarra.<br />Si no se pudiera realizar la actividad del mapa conceptual a través de una aplicación el alumnado lo tendría que presentar en una cartulina y de ahí se evaluaría el instrumento de evaluación.<br />En caso de que haya alumnado que no pudiera entregarlo durante la sesión se le habilitaría el recurso a través de la plataforma de Google classroom, que es la que trabajamos en nuestro centro. </p>
+<p>Además de todos los criterios recogidos en el documento "Todos aprendemos (DUA)".</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778218695528-mj41se2ac","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Esta situación de aprendizaje se encuentra enmarcada dentro de un proyecto más amplio que es: Las Aventuras de Jesús, que pretende enseñar al niño las vivencias de Jesús, que las experimente y que las reflexione y aplique en el mundo actual.</p>\n<p>Las tareas y los criterios de evaluación conectados a sus competencias básicas</p>\n<table border=\"1\" style=\"width: 100.066%; height: 2557.53px;\">\n<tbody>\n<tr style=\"height: 66.5938px;\">\n<td style=\"width: 27.6941%; height: 66.5938px;\">Tareas</td>\n<td style=\"width: 24.875%; height: 66.5938px;\">Criterios de evaluación</td>\n<td style=\"width: 47.4283%; height: 66.5938px;\">Competencias específicas</td>\n</tr>\n<tr style=\"height: 325.766px;\">\n<td style=\"width: 27.6941%; height: 325.766px;\">Blooket: Las aventuras de Jesus. Evaluación inicial. 20 preguntas sobre el Bautismo de Jesús</td>\n<td style=\"width: 24.875%; height: 325.766px;\">Conocer el Credo de la fe cristiana, poniéndolo en diálogo con otras áreas de conocimiento científico y cultural y con otras religiones. </td>\n<td style=\"width: 47.4283%; height: 325.766px;\">6. Comprender los contenidos básicos del cristianismo, valorando su<br />contribución a la sociedad, para disponer de una síntesis personal que permita<br />dialogar, desde la propia identidad social y cultural, con otras tradiciones<br />religiosas y áreas de conocimiento.<br /></td>\n</tr>\n<tr style=\"height: 556.141px;\">\n<td style=\"width: 27.6941%; height: 556.141px;\"> Aventuras de Jesús. 1º Aventura. Bautismos de Jesús. Ver vídeo de Nazaret en época de Jesús y el bautismo de Jesús<br /></td>\n<td style=\"width: 24.875%; height: 556.141px;\">Reconocer y apreciar, desde la propia identidad cultural, la pluralidad de tradiciones y expresiones presentes en el contexto social, promoviendo el respeto y el conocimiento mutuo que favorece el encuentro y el diálogo intercultural. </td>\n<td style=\"width: 47.4283%; height: 556.141px;\">4. Comprender y admirar el patrimonio cultural en algunas de sus expresiones<br />más significativas, disfrutando de su contemplación, analizando el universo<br />simbólico y vital que transmiten, para valorar la propia identidad cultural,<br />promover el diálogo intercultural y generar creaciones artísticas.</td>\n</tr>\n<tr style=\"height: 527.344px;\">\n<td style=\"width: 27.6941%; height: 527.344px;\">Representación del Bautismo de Jesús.</td>\n<td style=\"width: 24.875%; height: 527.344px;\"> Expresar con autonomía a través de diversos lenguajes comunicativos la identidad personal reconociendo, desde la visión cristiana, la singularidad de todas las personas, desarrollando empatía y valorando la pluralidad. <br /></td>\n<td style=\"width: 47.4283%; height: 527.344px;\">1. Descubrir, identificar y expresar los elementos clave de la dignidad y la<br />identidad personal en situaciones vitales cercanas, a través de biografías<br />inspiradoras y relatos bíblicos de alcance antropológico, para ir conformando la<br />propia identidad y sus relaciones con autonomía, responsabilidad y empatía.</td>\n</tr>\n<tr style=\"height: 469.75px;\">\n<td style=\"width: 27.6941%; height: 469.75px;\">\n<p>Reto: Ayuda a salir a Jesús del Río Jordán.</p>\n<p><br /></p>\n</td>\n<td style=\"width: 24.875%; height: 469.75px;\">Cooperar activamente en la construcción de una convivencia pacífica y democrática reconociendo, en iniciativas y proyectos eclesiales, aquellos valores morales que promueven el bien común. </td>\n<td style=\"width: 47.4283%; height: 469.75px;\">3. Identificar e interpretar las situaciones que perjudican o mejoran la buena<br />convivencia, analizándolas con las claves personales y sociales de la propuesta<br />cristiana, para fomentar el crecimiento moral, la cooperación con los demás y el<br />desarrollo de valores orientados al bien común.</td>\n</tr>\n<tr style=\"height: 498.547px;\">\n<td style=\"width: 27.6941%; height: 498.547px;\"> Valoración de la experiencia religiosa a través de la aplicación smart mirror.<br /></td>\n<td style=\"width: 24.875%; height: 498.547px;\">Valorar la experiencia religiosa como desarrollo personal y social de la dimensión espiritual, interpretando y respetando lo religioso en la pluralidad de culturas y promoviendo el diálogo interreligioso. </td>\n<td style=\"width: 47.4283%; height: 498.547px;\">5. Explorar, desarrollar y apreciar la propia interioridad y experiencia espiritual,<br />reconociéndola en las propias emociones, afectos, símbolos y creencias,<br />conociendo la experiencia de personajes relevantes de la tradición<br />judeocristiana y de otras religiones, para favorecer el autoconocimiento<br />personal, entender las vivencias de los otros y promover el diálogo y el respeto<br />entre las diferentes tradiciones religiosas.</td>\n</tr>\n<tr style=\"height: 37.7969px;\">\n<td style=\"width: 27.6941%; height: 37.7969px;\">Al final de todas las aventuras se volverá a realizar el blooket para comprobar si el alumnado ha adquirido las competencias correspondientes y se les planteará un reto a través de Genially/Canva u otro plataforma similar..</td>\n<td style=\"width: 24.875%; height: 37.7969px;\">Conocer el Credo de la fe cristiana, poniéndolo en diálogo con otras áreas de conocimiento científico y cultural y con otras religiones.</td>\n<td style=\"width: 47.4283%; height: 37.7969px;\">6. Comprender los contenidos básicos del cristianismo, valorando su<br />contribución a la sociedad, para disponer de una síntesis personal que permita<br />dialogar, desde la propia identidad social y cultural, con otras tradiciones<br />religiosas y áreas de conocimiento.</td>\n</tr>\n<tr style=\"height: 37.7969px;\">\n<td style=\"width: 27.6941%; height: 37.7969px;\"><br /></td>\n<td style=\"width: 24.875%; height: 37.7969px;\"><br /></td>\n<td style=\"width: 47.4283%; height: 37.7969px;\"><br /></td>\n</tr>\n<tr style=\"height: 37.7969px;\">\n<td style=\"width: 27.6941%; height: 37.7969px;\"><br /></td>\n<td style=\"width: 24.875%; height: 37.7969px;\"><br /></td>\n<td style=\"width: 47.4283%; height: 37.7969px;\"></td>\n</tr>\n</tbody>\n</table>\n<p>Para la preparación, tanto del proyecto como de las distintas situaciones de aprendizaje es imprescindible crear un ambiente que nos acerque al tiempo que vivió Jesús. Para ello en la puerta se coloca un cartel de Galilea, territorio donde vivió Jesús y se explica su ubicación. Dentro del aula he colocado un mapa con los diferentes territorios de la zona en las que transcurrirán las aventuras de Jesús, así como distintos carteles con las zonas del mapa cuya aventura la vamos a vivir dentro del aula. Por otro lado, las aventuras de Jesús como son: su bautismo y el desierto, los tengo que preparar la mañana que realizamos la actividad, puesto que utilizo zonas del colegio que son de uso común. En esta primera situación de aprendizaje he tenido que conseguir los siguientes materiales:</p>\n<p>Un plástico azul de 2m x 2m para hacer el río, un cartel con el nombre de Río Jordán.</p>\n<p>Dos bastones de madera para Juan Bautista y Jesús. Uno guía y otro es guiado.</p>\n<p>Una cuerda para que vayan en equipo durante el recorrido el resto de personajes.</p>\n<p>Un cubo de plástico y pelotas de pádel con los nombres de personajes amigos de Jesús para asignación de roles. </p>\n<p>Laminas y dibujos sobre el bautismos de Jesús.</p>\n<p>Paloma y nube de papel continuo para la representación.</p>\n<p>Para su desarrollo se han elaborado tanto cuestionarios en la plataforma Blooket como formulario de Exelearning, se han creado unas plataforma de contenidos(symbaloo y padlet) con unas webs y unos vídeos de referencia para uso tanto del alumnado como del profesorado que imparte la sesión.</p>\n<p>Es necesario reservar los equipos informáticos del centro educativo y asegurarse que están cargados y con acceso a internet.</p>\n<p><br /></p>\n<p>Los datos los obtendré de cada una de las actividades que he planteado. Cuando realicen la actividad podré evaluar la actividad con los item correspondiente a esa actividad. El producto final se realizaría a través de  Genially/Canva/Google docs y se trataría de un mapa conceptual y la exposición del proyecto presentado, que los evaluo con tres item: “ Los proyectos presentados cumplen con los requisitos de originalidad y propiedad” y “los mapas conceptuales tienen información suficiente sobre el tema”, “el trabajo está enviado en tiempo y forma” y \"Participa de manera colaborativa en los retos y proyectos\".</p>\n<p>Los otros items se refieren a otras actividades planteadas en la lluvia de ideas, donde habrá 3 cuadros: 1.Conceptos de la SA. 2. Reflexiones de la SA. 3. Valoración de la SA.</p>\n<p><br />La implementación se trata de una mejora de los resultados. Por ello en las actividades propuestas, hago el blooket como actividad inicial de motivación y al final de las sesiones la realizo como actividad evaluable. Esto me permite no solo obtener una nota cuantificable, sino valorar si el alumnado ha mejorado y ha aprendido conceptos que antes no dominaba.</p>\n<p>Mientras que en la lluvia de ideas y en el proyecto permiten al alumnado mejorar en nuevas competencias que complementan a  la situación de aprendizaje, como son una buena labor de síntesis, un buen manejo de los programas que se usen para la realización del proyecto: Canva o Genially, y a mejorar en su competencia comunicativa a través de la exposición y la representación.</p>\n<p><br />Las posibles variables que se den a lo largo de la recogida de datos sobre los instrumentos de evaluación son las siguientes:</p>\n<p><br />Si no se pudiera hacer los blooket por falta de internet, el alumnado realizaría las preguntas escritas y de ahí se obtendría la nota cuantificable.<br />Si no se pudiera realizar las actividades de lluvia de ideas por internet el alumnado lo haría a través de la pizarra digital, mediante el lápiz de pizarra.<br />Si no se pudiera realizar la actividad del mapa conceptual a través de una aplicación el alumnado lo tendría que presentar en una cartulina y de ahí se evaluaría el instrumento de evaluación.<br />En caso de que haya alumnado que no pudiera entregarlo durante la sesión se le habilitaría el recurso a través de la plataforma de Google classroom, que es la que trabajamos en nuestro centro. </p>\n<p>Además de todos los criterios recogidos en el documento \"Todos aprendemos (DUA)\".</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1778213178439-md13pz3i0</odePageId>
+  <odeParentPageId>page-movom2jd-5t2lp7tua</odeParentPageId>
+  <pageName>CRÉDITOS</pageName>
+  <odeNavStructureOrder>24</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>CRÉDITOS</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1778213178439-md13pz3i0</odePageId>
+      <odeBlockId>block-1778215673301-9bh5l3hcv</odeBlockId>
+      <blockName>AUTORÍA Y AGRADECIMIENTOS</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778213178439-md13pz3i0</odePageId>
+          <odeBlockId>block-1778215673301-9bh5l3hcv</odeBlockId>
+          <odeIdeviceId>idevice-1778215673298-0pwfibv7t</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Situación de Aprendizaje realizada por: Joaquín Barba Ortega.</p>
+<figure class="exe-figure position-center" style="width: 1280px;"><img src="{{context_path}}/content/resources/0a1dad27-b2df-48ef-a930-c47a9f09f795.png" title="Licencia Creative Commons" width="1280" height="456" alt="" />
+<figcaption class="figcaption"><span class="author">Licencia Cretive Commons</span>. <span class="license"><span class="sep">(</span><a href="http://creativecommons.org/licenses/" class="license" target="_blank" rel="noopener">CC BY-NC-SA</a><span class="sep">)</span></span></figcaption>
+</figure>
+<p></p>
+<p>Agradecemos por el uso de recursos propios de:</p>
+<p>Fano (Dibujo de portada y de la situación de aprendizaje).</p>
+<p>Univisión (Vídeo de la vida en Nazaret).</p>
+<p>Relatos Eternos ( Vídeo profundización de la vida en tiempos de Jesús)</p>
+<p>CatoliKids (Vídeo explicativo sobre el bautismo).</p>
+<p>Fcbh Gospel Films ( Vídeo iniciación/motivación de Jesús en el desierto)</p>
+<p>Ana C Reli (Escape Room sacramentos, Actividad de ampliación)</p>
+<p>Conferencia Episcopal(Citas Bíblicas)</p>
+<p>Jesús Eucaristia Kids (Canción bautismo de Jesús)</p>
+<p>Blooket (Plantillas de Cuestionarios)</p>
+<p>Genially (Uso de plantillas infografias).</p>
+<p>Padlet (Plantillas para presentación de recursos)</p>
+<p>Symbaloo ( Listados webs)</p>
+<p>Canva (Plantillas Seguridad Digital)</p>
+<p>EXeLearning (Formularios y plataforma)</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778215673298-0pwfibv7t","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Situación de Aprendizaje realizada por: Joaquín Barba Ortega.</p>\n<figure class=\"exe-figure position-center\" style=\"width: 1280px;\"><img src=\"{{context_path}}/content/resources/0a1dad27-b2df-48ef-a930-c47a9f09f795.png\" title=\"Licencia Creative Commons\" width=\"1280\" height=\"456\" alt=\"\" />\n<figcaption class=\"figcaption\"><span class=\"author\">Licencia Cretive Commons</span>. <span class=\"license\"><span class=\"sep\">(</span><a href=\"http://creativecommons.org/licenses/\" class=\"license\" target=\"_blank\" rel=\"noopener\">CC BY-NC-SA</a><span class=\"sep\">)</span></span></figcaption>\n</figure>\n<p></p>\n<p>Agradecemos por el uso de recursos propios de:</p>\n<p>Fano (Dibujo de portada y de la situación de aprendizaje).</p>\n<p>Univisión (Vídeo de la vida en Nazaret).</p>\n<p>Relatos Eternos ( Vídeo profundización de la vida en tiempos de Jesús)</p>\n<p>CatoliKids (Vídeo explicativo sobre el bautismo).</p>\n<p>Fcbh Gospel Films ( Vídeo iniciación/motivación de Jesús en el desierto)</p>\n<p>Ana C Reli (Escape Room sacramentos, Actividad de ampliación)</p>\n<p>Conferencia Episcopal(Citas Bíblicas)</p>\n<p>Jesús Eucaristia Kids (Canción bautismo de Jesús)</p>\n<p>Blooket (Plantillas de Cuestionarios)</p>\n<p>Genially (Uso de plantillas infografias).</p>\n<p>Padlet (Plantillas para presentación de recursos)</p>\n<p>Symbaloo ( Listados webs)</p>\n<p>Canva (Plantillas Seguridad Digital)</p>\n<p>EXeLearning (Formularios y plataforma)</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-1778213178439-md13pz3i0</odePageId>
+      <odeBlockId>block-1778268021664-v2jx2vgdu</odeBlockId>
+      <blockName>Descargar el archivo fuente</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778213178439-md13pz3i0</odePageId>
+          <odeBlockId>block-1778268021664-v2jx2vgdu</odeBlockId>
+          <odeIdeviceId>idevice-1778268021649-o577s98zo</odeIdeviceId>
+          <odeIdeviceTypeName>download-source-file</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-download-package-instructions"><table class="exe-table exe-package-info"><caption>Información general sobre este recurso educativo</caption>
+<tbody>
+<tr>
+<th>Título</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-title">PROYECTO. LAS AVENTURAS DE JESÚS</span></td>
+</tr>
+<tr>
+<th>Descripción</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-description">Se trata de una situación de aprendizaje que nos enseña el Bautismo de Jesús, nos acerca a Jesús en el comienzo de su vida pública. Es la primera aventura de una serie de 4 aventuras donde conoceremos el tiempo cuando Jesús inicia su andadura para enseñarnos el Reino de Dios.</span></td>
+</tr>
+<tr>
+<th>Autoría</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-author">Joaquín Barba Ortega</span></td>
+</tr>
+<tr>
+<th>Licencia</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-license">creative commons: attribution - share alike 4.0</span></td>
+</tr>
+</tbody>
+</table>
+<p style="text-align: center;">Este contenido fue creado con <a href="https://exelearning.net/">eXeLearning</a>, el editor libre y de fuente abierta diseñado para crear recursos educativos.</p></div><p class="exe-download-package-link"><a download="exe-package:elp-name" href="exe-package:elp" style="background-color:#107275;color:#ffffff;">Descargar el archivo .elpx</a></p>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+</odeNavStructures>
+</ode>
